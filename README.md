@@ -113,11 +113,11 @@ I'm a maintainer of the following open source projects:
 [hunspellcheck-pypi-downloads-badge]: https://img.shields.io/pypi/dm/hunspellcheck?style=flat-square
 [hunspellcheck-pypi-downloads-link]: https://pypistats.org/packages/hunspellcheck
 
-[moviepy-github]: https://github.com/mondeja/moviepy
+[moviepy-github]: https://github.com/Zulko/moviepy
 [moviepy-pypi-badge]: https://img.shields.io/pypi/v/moviepy?style=flat-square&logo=python&logoColor=white
 [moviepy-pypi-link]: https://pypi.org/project/moviepy
-[moviepy-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/moviepy?style=flat-square
-[moviepy-last-commit-link]: https://github.com/mondeja/moviepy/commits
+[moviepy-last-commit-badge]: https://img.shields.io/github/last-commit/Zulko/moviepy?style=flat-square
+[moviepy-last-commit-link]: https://github.com/Zulko/moviepy/commits
 [moviepy-pypi-downloads-badge]: https://img.shields.io/pypi/dm/moviepy?style=flat-square
 [moviepy-pypi-downloads-link]: https://pypistats.org/packages/moviepy
 
