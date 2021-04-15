@@ -2,11 +2,9 @@
 
 [![MAIL Badge](https://img.shields.io/badge/-mondejar1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mondejar1994@gmail.com)](mailto:mondejar1994@gmail.com)
 
-## Open source maintainment
-
 I'm a maintainer of the following open source projects:
 
-### Python
+## Python
 
 | Name | Release | Activity | Popularity |
 | --- | --- | ---- | --- |
@@ -21,7 +19,7 @@ I'm a maintainer of the following open source projects:
 | [hunspellcheck][hunspellcheck-github] | [![PyPI][hunspellcheck-pypi-badge]][hunspellcheck-pypi-link] | [![GitHub last commit][hunspellcheck-last-commit-badge]][hunspellcheck-last-commit-link] | [![PyPI - Downloads][hunspellcheck-pypi-downloads-badge]][hunspellcheck-pypi-downloads-link] |
 | [moviepy][moviepy-github] | [![PyPI][moviepy-pypi-badge]][moviepy-pypi-link] | [![GitHub last commit][moviepy-last-commit-badge]][moviepy-last-commit-link] | [![PyPI - Downloads][moviepy-pypi-downloads-badge]][moviepy-pypi-downloads-link] |
 
-### Javascript
+## Javascript
 
 | Name | Release | Activity | Popularity |
 | --- | --- | ---- | --- |
@@ -31,20 +29,15 @@ I'm a maintainer of the following open source projects:
 | [simple-icons-font][simple-icons-font-github] | [![NPM][simple-icons-font-npm-badge]][simple-icons-font-npm-link] | [![GitHub last commit][simple-icons-font-last-commit-badge]][simple-icons-font-last-commit-link] | [![NPM - Downloads][simple-icons-font-npm-downloads-badge]][simple-icons-font-npm-link] |
 | [woff2otf][woff2otf-github] | [![NPM][woff2otf-npm-badge]][woff2otf-npm-link] | [![GitHub last commit][woff2otf-last-commit-badge]][woff2otf-last-commit-link] | [![NPM - Downloads][woff2otf-npm-downloads-badge]][woff2otf-npm-link] |
 
-### Github Actions
+## Github Actions
 
 | Name | Release | Activity |
 | --- | --- | ---- |
 | [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] |
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] |
 
-## Recent activity
-
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mondeja&show_icons=true&hide_border=true" />
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <!-- Python projects links -->
    
