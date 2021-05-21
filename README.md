@@ -36,8 +36,6 @@ I'm a maintainer of the following open source projects:
 | [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] |
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] |
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=mondeja&show_icons=true&hide_border=true&title_color=f70019&icon_color=f70019" />
-
 
 <!-- Python projects links -->
    
