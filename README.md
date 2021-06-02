@@ -10,6 +10,7 @@ I'm a maintainer of the following open source projects:
 | --- | --- | ---- | --- |
 | [mdpo][mdpo-github] | [![PyPI][mdpo-pypi-badge]][mdpo-pypi-link] | [![GitHub last commit][mdpo-last-commit-badge]][mdpo-last-commit-link] | [![PyPI - Downloads][mdpo-pypi-downloads-badge]][mdpo-pypi-downloads-link] |
 | [mkdocs-include-markdown-plugin][mkdocs-include-markdown-plugin-github] | [![PyPI][mkdocs-include-markdown-plugin-pypi-badge]][mkdocs-include-markdown-plugin-pypi-link] | [![GitHub last commit][mkdocs-include-markdown-plugin-last-commit-badge]][mkdocs-include-markdown-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-include-markdown-plugin-pypi-downloads-badge]][mkdocs-include-markdown-plugin-pypi-downloads-link] |
+| [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] |
 | [http-request-codegen][http-request-codegen-github] | [![PyPI][http-request-codegen-pypi-badge]][http-request-codegen-pypi-link] | [![GitHub last commit][http-request-codegen-last-commit-badge]][http-request-codegen-last-commit-link] | [![PyPI - Downloads][http-request-codegen-pypi-downloads-badge]][http-request-codegen-pypi-downloads-link] |
 | [pytest-blender][pytest-blender-github] | [![PyPI][pytest-blender-pypi-badge]][pytest-blender-pypi-link] | [![GitHub last commit][pytest-blender-last-commit-badge]][pytest-blender-last-commit-link] | [![PyPI - Downloads][pytest-blender-pypi-downloads-badge]][pytest-blender-pypi-downloads-link] |
@@ -54,6 +55,14 @@ I'm a maintainer of the following open source projects:
 [mkdocs-include-markdown-plugin-last-commit-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/commits
 [mkdocs-include-markdown-plugin-pypi-downloads-badge]: https://img.shields.io/pypi/dm/mkdocs-include-markdown-plugin?style=flat-square
 [mkdocs-include-markdown-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-include-markdown-plugin
+
+[pre-commit-po-hooks-github]: https://github.com/mondeja/pre-commit-po-hooks
+[pre-commit-po-hooks-pypi-badge]: https://img.shields.io/pypi/v/pre-commit-po-hooks?style=flat-square&logo=python&logoColor=white
+[pre-commit-po-hooks-pypi-link]: https://pypi.org/project/pre-commit-po-hooks
+[pre-commit-po-hooks-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pre-commit-po-hooks?style=flat-square
+[pre-commit-po-hooks-last-commit-link]: https://github.com/mondeja/pre-commit-po-hooks/commits
+[pre-commit-po-hooks-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pre-commit-po-hooks?style=flat-square
+[pre-commit-po-hooks-pypi-downloads-link]: https://pypistats.org/packages/pre-commit-po-hooks
 
 [blender-downloader-github]: https://github.com/mondeja/blender-downloader
 [blender-downloader-pypi-badge]: https://img.shields.io/pypi/v/blender-downloader?style=flat-square&logo=python&logoColor=white
