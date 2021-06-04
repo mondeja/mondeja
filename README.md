@@ -9,6 +9,7 @@ I'm a maintainer of the following open source projects:
 | Name | Release | Activity | Popularity | State |
 | --- | --- | ---- | --- | --- |
 | [mdpo][mdpo-github] | [![PyPI][mdpo-pypi-badge]][mdpo-pypi-link] | [![GitHub last commit][mdpo-last-commit-badge]][mdpo-last-commit-link] | [![PyPI - Downloads][mdpo-pypi-downloads-badge]][mdpo-pypi-downloads-link] | [![Tests][mdpo-state-badge]][mdpo-state-link] |
+| [mkdocs-mdpo-plugin][mkdocs-mdpo-plugin-github] | [![PyPI][mkdocs-mdpo-plugin-pypi-badge]][mkdocs-mdpo-plugin-pypi-link] | [![GitHub last commit][mkdocs-mdpo-plugin-last-commit-badge]][mkdocs-mdpo-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-mdpo-plugin-pypi-downloads-badge]][mkdocs-mdpo-plugin-pypi-downloads-link] |  [![Tests][mkdocs-mdpo-plugin-state-badge]][mkdocs-mdpo-plugin-state-link] |
 | [mkdocs-include-markdown-plugin][mkdocs-include-markdown-plugin-github] | [![PyPI][mkdocs-include-markdown-plugin-pypi-badge]][mkdocs-include-markdown-plugin-pypi-link] | [![GitHub last commit][mkdocs-include-markdown-plugin-last-commit-badge]][mkdocs-include-markdown-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-include-markdown-plugin-pypi-downloads-badge]][mkdocs-include-markdown-plugin-pypi-downloads-link] |  [![Tests][mkdocs-include-markdown-plugin-state-badge]][mkdocs-include-markdown-plugin-state-link] |
 | [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] | [![Tests][pre-commit-po-hooks-state-badge]][pre-commit-po-hooks-state-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
@@ -49,6 +50,16 @@ I'm a maintainer of the following open source projects:
 [mdpo-pypi-downloads-link]: https://pypistats.org/packages/mdpo
 [mdpo-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?logo=github&label=tests&style=flat-square
 [mdpo-state-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ATest
+
+[mkdocs-mdpo-plugin-github]: https://github.com/mondeja/mkdocs-mdpo-plugin
+[mkdocs-mdpo-plugin-pypi-badge]: https://img.shields.io/pypi/v/mkdocs-mdpo-plugin?style=flat-square&logo=python&logoColor=white
+[mkdocs-mdpo-plugin-pypi-link]: https://pypi.org/project/mkdocs-mdpo-plugin
+[mkdocs-mdpo-plugin-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/mkdocs-mdpo-plugin?style=flat-square
+[mkdocs-mdpo-plugin-last-commit-link]: https://github.com/mondeja/mkdocs-mdpo-plugin/commits
+[mkdocs-mdpo-plugin-pypi-downloads-badge]: https://img.shields.io/pypi/dm/mkdocs-mdpo-plugin?style=flat-square
+[mkdocs-mdpo-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-mdpo-plugin
+[mkdocs-mdpo-plugin-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mkdocs-mdpo-plugin/CI?logo=github&label=tests&style=flat-square
+[mkdocs-mdpo-plugin-state-link]: https://github.com/mondeja/mkdocs-mdpo-plugin/actions?query=workflow%3ACI
 
 [mkdocs-include-markdown-plugin-github]: https://github.com/mondeja/mkdocs-include-markdown-plugin
 [mkdocs-include-markdown-plugin-pypi-badge]: https://img.shields.io/pypi/v/mkdocs-include-markdown-plugin?style=flat-square&logo=python&logoColor=white
