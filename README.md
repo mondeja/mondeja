@@ -87,7 +87,7 @@ I'm a maintainer of the following open source projects:
 [http-request-codegen-last-commit-link]: https://github.com/mondeja/http-request-codegen/commits
 [http-request-codegen-pypi-downloads-badge]: https://img.shields.io/pypi/dm/http-request-codegen?style=flat-square
 [http-request-codegen-pypi-downloads-link]: https://pypistats.org/packages/http-request-codegen
-[http-request-codegen-state-badge]: https://img.shields.io/github/workflow/status/mondeja/http-request-codegen/CI?label=tests&logo=github
+[http-request-codegen-state-badge]: https://img.shields.io/github/workflow/status/mondeja/http-request-codegen/CI?label=tests&logo=github&style=flat-square
 [http-request-codegen-state-link]: https://github.com/mondeja/http-request-codegen/actions?query=workflow%3ACI
 
 [pytest-blender-github]: https://github.com/mondeja/pytest-blender
@@ -97,7 +97,7 @@ I'm a maintainer of the following open source projects:
 [pytest-blender-last-commit-link]: https://github.com/mondeja/pytest-blender/commits
 [pytest-blender-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pytest-blender?style=flat-square
 [pytest-blender-pypi-downloads-link]: https://pypistats.org/packages/pytest-blender
-[pytest-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pytest-blender/CI?logo=github&label=tests
+[pytest-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pytest-blender/CI?logo=github&label=tests&style=flat-square
 [pytest-blender-state-link]: https://github.com/mondeja/pytest-blender/actions?query=workflow%3ACI
 
 [cartocss-doc-parser-github]: https://github.com/mondeja/cartocss-doc-parser
@@ -107,7 +107,7 @@ I'm a maintainer of the following open source projects:
 [cartocss-doc-parser-last-commit-link]: https://github.com/mondeja/cartocss-doc-parser/commits
 [cartocss-doc-parser-pypi-downloads-badge]: https://img.shields.io/pypi/dm/cartocss-doc-parser?style=flat-square
 [cartocss-doc-parser-pypi-downloads-link]: https://pypistats.org/packages/cartocss-doc-parser
-[cartocss-doc-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/cartocss-doc-parser/Test?logo=github&label=tests
+[cartocss-doc-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/cartocss-doc-parser/Test?logo=github&label=tests&style=flat-square
 [cartocss-doc-parser-state-link]: https://github.com/mondeja/cartocss-doc-parser/actions?query=workflow%3ATest
 
 [pgdoc-datatype-parser-github]: https://github.com/mondeja/pgdoc-datatype-parser
@@ -117,7 +117,7 @@ I'm a maintainer of the following open source projects:
 [pgdoc-datatype-parser-last-commit-link]: https://github.com/mondeja/pgdoc-datatype-parser/commits
 [pgdoc-datatype-parser-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pgdoc-datatype-parser?style=flat-square
 [pgdoc-datatype-parser-pypi-downloads-link]: https://pypistats.org/packages/pgdoc-datatype-parser
-[pgdoc-datatype-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pgdoc-datatype-parser/CI?logo=github&label=tests
+[pgdoc-datatype-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pgdoc-datatype-parser/CI?logo=github&label=tests&style=flat-square
 [pgdoc-datatype-parser-state-link]: https://github.com/mondeja/pgdoc-datatype-parser/actions?query=workflow%3ACI
 
 [potojson-github]: https://github.com/mondeja/potojson
@@ -127,7 +127,7 @@ I'm a maintainer of the following open source projects:
 [potojson-last-commit-link]: https://github.com/mondeja/potojson/commits
 [potojson-pypi-downloads-badge]: https://img.shields.io/pypi/dm/potojson?style=flat-square
 [potojson-pypi-downloads-link]: https://pypistats.org/packages/potojson
-[potojson-state-badge]: https://img.shields.io/github/workflow/status/mondeja/potojson/CI?logo=github&label=tests
+[potojson-state-badge]: https://img.shields.io/github/workflow/status/mondeja/potojson/CI?logo=github&label=tests&style=flat-square
 [potojson-state-link]: https://github.com/mondeja/potojson/actions?query=workflow%3ACI
 
 [hunspellcheck-github]: https://github.com/mondeja/hunspellcheck
@@ -137,7 +137,7 @@ I'm a maintainer of the following open source projects:
 [hunspellcheck-last-commit-link]: https://github.com/mondeja/hunspellcheck/commits
 [hunspellcheck-pypi-downloads-badge]: https://img.shields.io/pypi/dm/hunspellcheck?style=flat-square
 [hunspellcheck-pypi-downloads-link]: https://pypistats.org/packages/hunspellcheck
-[hunspellcheck-state-badge]: https://img.shields.io/github/workflow/status/mondeja/hunspellcheck/CI?logo=github&label=tests
+[hunspellcheck-state-badge]: https://img.shields.io/github/workflow/status/mondeja/hunspellcheck/CI?logo=github&label=tests&style=flat-square
 [hunspellcheck-state-link]: https://github.com/mondeja/hunspellcheck/actions?query=workflow%3ACI
 
 [moviepy-github]: https://github.com/Zulko/moviepy
@@ -147,7 +147,7 @@ I'm a maintainer of the following open source projects:
 [moviepy-last-commit-link]: https://github.com/Zulko/moviepy/commits
 [moviepy-pypi-downloads-badge]: https://img.shields.io/pypi/dm/moviepy?style=flat-square
 [moviepy-pypi-downloads-link]: https://pypistats.org/packages/moviepy
-[moviepy-state-badge]: https://img.shields.io/github/workflow/status/Zulko/moviepy/Run%20Test%20Suite?logo=github&label=tests
+[moviepy-state-badge]: https://img.shields.io/github/workflow/status/Zulko/moviepy/Run%20Test%20Suite?logo=github&label=tests&style=flat-square
 [moviepy-state-link]: https://github.com/Zulko/moviepy/actions?query=workflow%3A%22Run+Test+Suite%22
 
 <!-- End: Python projects links -->
@@ -160,7 +160,7 @@ I'm a maintainer of the following open source projects:
 [svg-path-bbox-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-bbox?style=flat-square
 [svg-path-bbox-last-commit-link]: https://github.com/mondeja/svg-path-bbox/commits
 [svg-path-bbox-npm-downloads-badge]: https://img.shields.io/npm/dm/svg-path-bbox?style=flat-square
-[svg-path-bbox-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-bbox/Test?logo=github&label=tests
+[svg-path-bbox-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-bbox/Test?logo=github&label=tests&style=flat-square
 [svg-path-bbox-state-link]: https://github.com/mondeja/svg-path-bbox/actions?query=workflow%3ATest
 
 [svg-path-segments-github]: https://github.com/mondeja/svg-path-segments
@@ -169,7 +169,7 @@ I'm a maintainer of the following open source projects:
 [svg-path-segments-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-segments?style=flat-square
 [svg-path-segments-last-commit-link]: https://github.com/mondeja/svg-path-segments/commits
 [svg-path-segments-npm-downloads-badge]: https://img.shields.io/npm/dm/svg-path-segments?style=flat-square
-[svg-path-segments-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-segments/CI?logo=github&label=tests
+[svg-path-segments-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-segments/CI?logo=github&label=tests&style=flat-square
 [svg-path-segments-state-link]: https://github.com/mondeja/svg-path-segments/actions?query=workflow%3ACI
 
 [simple-icons-github]: https://github.com/simple-icons/simple-icons
@@ -178,7 +178,7 @@ I'm a maintainer of the following open source projects:
 [simple-icons-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons?style=flat-square
 [simple-icons-last-commit-link]: https://github.com/simple-icons/simple-icons/commits
 [simple-icons-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons?style=flat-square
-[simple-icons-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&label=tests
+[simple-icons-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&label=tests&style=flat-square
 [simple-icons-state-link]: https://github.com/mondeja/simple-icons/actions?query=workflow%3ATest
 
 [simple-icons-font-github]: https://github.com/simple-icons/simple-icons-font
@@ -187,7 +187,7 @@ I'm a maintainer of the following open source projects:
 [simple-icons-font-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons-font?style=flat-square
 [simple-icons-font-last-commit-link]: https://github.com/simple-icons/simple-icons-font/commits
 [simple-icons-font-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons-font?style=flat-square
-[simple-icons-font-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons-font/Verify/develop?logo=github&label=tests
+[simple-icons-font-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons-font/Verify/develop?logo=github&label=tests&style=flat-square
 [simple-icons-font-state-link]: https://github.com/mondeja/simple-icons-font/actions?query=workflow%3ACI
 
 [woff2otf-github]: https://github.com/mondeja/woff2otf
@@ -196,7 +196,7 @@ I'm a maintainer of the following open source projects:
 [woff2otf-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/woff2otf?style=flat-square
 [woff2otf-last-commit-link]: https://github.com/mondeja/woff2otf/commits
 [woff2otf-npm-downloads-badge]: https://img.shields.io/npm/dm/woff2otf?style=flat-square
-[woff2otf-state-badge]: https://img.shields.io/github/workflow/status/mondeja/woff2otf/CI?logo=github&label=tests
+[woff2otf-state-badge]: https://img.shields.io/github/workflow/status/mondeja/woff2otf/CI?logo=github&label=tests&style=flat-square
 [woff2otf-state-link]: https://github.com/mondeja/woff2otf/actions?query=workflow%3ACI
 
 <!-- End: Javascript projects links -->
@@ -209,7 +209,7 @@ I'm a maintainer of the following open source projects:
 [remove-labels-gh-action-release-link]: https://github.com/mondeja/remove-labels-gh-action/releases/latest
 [remove-labels-gh-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/remove-labels-gh-action?style=flat-square
 [remove-labels-gh-action-last-commit-link]: https://github.com/mondeja/remove-labels-gh-action/commits
-[remove-labels-gh-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/remove-labels-gh-action/CI?logo=github&label=tests
+[remove-labels-gh-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/remove-labels-gh-action/CI?logo=github&label=tests&style=flat-square
 [remove-labels-gh-action-state-link]: https://github.com/mondeja/remove-labels-gh-action/actions?query=workflow%3ACI
 
 [pr-linked-issues-action-github]: https://github.com/mondeja/pr-linked-issues-action
@@ -217,7 +217,7 @@ I'm a maintainer of the following open source projects:
 [pr-linked-issues-action-release-link]: https://github.com/mondeja/pr-linked-issues-action/releases/latest
 [pr-linked-issues-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pr-linked-issues-action?style=flat-square
 [pr-linked-issues-action-last-commit-link]: https://github.com/mondeja/pr-linked-issues-action/commits
-[pr-linked-issues-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pr-linked-issues-action/CI?logo=github&label=tests
+[pr-linked-issues-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pr-linked-issues-action/CI?logo=github&label=tests&style=flat-square
 [pr-linked-issues-action-state-link]: https://github.com/mondeja/pr-linked-issues-action/actions?query=workflow%3ACI
 
 <!-- End: Github Actions links -->
