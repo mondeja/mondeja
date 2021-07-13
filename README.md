@@ -37,6 +37,7 @@ I'm a maintainer of the following open source projects:
 
 | Name | Release | Activity | State |
 | --- | --- | --- | --- |
+| [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] |
 | [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] | [![Tests][remove-labels-gh-action-state-badge]][remove-labels-gh-action-state-link] |
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] |
 
@@ -246,6 +247,14 @@ I'm a maintainer of the following open source projects:
 [remove-labels-gh-action-last-commit-link]: https://github.com/mondeja/remove-labels-gh-action/commits
 [remove-labels-gh-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/remove-labels-gh-action/CI?logo=github&label=tests&style=flat-square
 [remove-labels-gh-action-state-link]: https://github.com/mondeja/remove-labels-gh-action/actions?query=workflow%3ACI
+
+[solaris-vm-action-github]: https://github.com/mondeja/solaris-vm-action
+[solaris-vm-action-release-badge]: https://img.shields.io/github/v/release/mondeja/solaris-vm-action?logo=github
+[solaris-vm-action-release-link]: https://github.com/mondeja/solaris-vm-action/releases/latest
+[solaris-vm-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/solaris-vm-action?style=flat-square
+[solaris-vm-action-last-commit-link]: https://github.com/mondeja/solaris-vm-action/commits
+[solaris-vm-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/solaris-vm-action/CI/v1?label=tests&logo=github
+[solaris-vm-action-state-link]: https://github.com/mondeja/solaris-vm-action/actions/workflows/ci.yml
 
 [pr-linked-issues-action-github]: https://github.com/mondeja/pr-linked-issues-action
 [pr-linked-issues-action-release-badge]: https://img.shields.io/github/v/release/mondeja/pr-linked-issues-action?logo=github
