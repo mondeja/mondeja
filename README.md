@@ -1,8 +1,8 @@
-# Hi, I'm Álvaro Mondéjar
+# Hi, I'm mondeja
 
 [![MAIL Badge](https://img.shields.io/badge/-mondejar1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mondejar1994@gmail.com)](mailto:mondejar1994@gmail.com)
 
-I'm a maintainer of the following open source projects:
+I help maintaining the following open source projects:
 
 ## Python
 
@@ -40,7 +40,6 @@ I'm a maintainer of the following open source projects:
 | [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] |
 | [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] | [![Tests][remove-labels-gh-action-state-badge]][remove-labels-gh-action-state-link] |
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] |
-
 
 <!-- Python projects links -->
    
