@@ -239,24 +239,24 @@ I help maintaining the following open source projects:
 
 <!-- Github Actions links -->
 
+[solaris-vm-action-github]: https://github.com/mondeja/solaris-vm-action
+[solaris-vm-action-release-badge]: https://img.shields.io/github/v/release/mondeja/solaris-vm-action?logo=github&style=flat-square
+[solaris-vm-action-release-link]: https://github.com/mondeja/solaris-vm-action/releases/latest
+[solaris-vm-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/solaris-vm-action?style=flat-square
+[solaris-vm-action-last-commit-link]: https://github.com/mondeja/solaris-vm-action/commits
+[solaris-vm-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/solaris-vm-action/CI/v1?label=tests&logo=github&style=flat-square
+[solaris-vm-action-state-link]: https://github.com/mondeja/solaris-vm-action/actions/workflows/ci.yml
+
 [remove-labels-gh-action-github]: https://github.com/mondeja/remove-labels-gh-action
-[remove-labels-gh-action-release-badge]: https://img.shields.io/github/v/release/mondeja/remove-labels-gh-action?logo=github
+[remove-labels-gh-action-release-badge]: https://img.shields.io/github/v/release/mondeja/remove-labels-gh-action?logo=github&style=flat-square
 [remove-labels-gh-action-release-link]: https://github.com/mondeja/remove-labels-gh-action/releases/latest
 [remove-labels-gh-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/remove-labels-gh-action?style=flat-square
 [remove-labels-gh-action-last-commit-link]: https://github.com/mondeja/remove-labels-gh-action/commits
 [remove-labels-gh-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/remove-labels-gh-action/CI?logo=github&label=tests&style=flat-square
 [remove-labels-gh-action-state-link]: https://github.com/mondeja/remove-labels-gh-action/actions?query=workflow%3ACI
 
-[solaris-vm-action-github]: https://github.com/mondeja/solaris-vm-action
-[solaris-vm-action-release-badge]: https://img.shields.io/github/v/release/mondeja/solaris-vm-action?logo=github
-[solaris-vm-action-release-link]: https://github.com/mondeja/solaris-vm-action/releases/latest
-[solaris-vm-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/solaris-vm-action?style=flat-square
-[solaris-vm-action-last-commit-link]: https://github.com/mondeja/solaris-vm-action/commits
-[solaris-vm-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/solaris-vm-action/CI/v1?label=tests&logo=github
-[solaris-vm-action-state-link]: https://github.com/mondeja/solaris-vm-action/actions/workflows/ci.yml
-
 [pr-linked-issues-action-github]: https://github.com/mondeja/pr-linked-issues-action
-[pr-linked-issues-action-release-badge]: https://img.shields.io/github/v/release/mondeja/pr-linked-issues-action?logo=github
+[pr-linked-issues-action-release-badge]: https://img.shields.io/github/v/release/mondeja/pr-linked-issues-action?logo=github&style=flat-square
 [pr-linked-issues-action-release-link]: https://github.com/mondeja/pr-linked-issues-action/releases/latest
 [pr-linked-issues-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pr-linked-issues-action?style=flat-square
 [pr-linked-issues-action-last-commit-link]: https://github.com/mondeja/pr-linked-issues-action/commits
