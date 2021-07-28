@@ -35,7 +35,7 @@ Maybe you only want to install the testing dependencies. In such case use:
 (venv) $ python3 -m pip install -e .[tests]
 ```
 
-## Contributioon workflow
+## Contribution workflow
 
 Add a GIT remote for retrieve new changes from main master:
 
