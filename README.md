@@ -35,11 +35,11 @@ I help maintaining the following open source projects:
 
 ## Github Actions
 
-| Name | Release | Activity | State |
-| --- | --- | --- | --- |
-| [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] |
-| [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] | [![Tests][remove-labels-gh-action-state-badge]][remove-labels-gh-action-state-link] |
-| [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] |
+| Name | Release | Activity | State | Language
+| --- | --- | --- | --- | --- |
+| [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] | ![Shell][shell] |
+| [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] | [![Tests][remove-labels-gh-action-state-badge]][remove-labels-gh-action-state-link] | ![Javascript][javascript] |
+| [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Bash][bash] |
 
 <!-- Python projects links -->
    
@@ -264,3 +264,11 @@ I help maintaining the following open source projects:
 [pr-linked-issues-action-state-link]: https://github.com/mondeja/pr-linked-issues-action/actions?query=workflow%3ACI
 
 <!-- End: Github Actions links -->
+
+<!-- Language badges -->
+
+[shell]: https://img.shields.io/static/v1?label=language&labelColor=black&message=posix&logo=gnu-bash&logoColor=white&color=77216F
+[bash]: https://img.shields.io/static/v1?label=language&labelColor=black&message=bash&logo=gnu-bash&logoColor=white&color=77216F
+[javascript]: https://img.shields.io/static/v1?label=language&labelColor=black&message=javascript&logo=javascript&logoColor=FBF152&color=FBF152
+
+<!-- End: Language badges -->
