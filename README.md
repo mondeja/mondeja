@@ -267,8 +267,8 @@ I help maintaining the following open source projects:
 
 <!-- Language badges -->
 
-[shell]: https://img.shields.io/static/v1?label=language&labelColor=black&message=posix&logo=gnu-bash&logoColor=white&color=77216F
-[bash]: https://img.shields.io/static/v1?label=language&labelColor=black&message=bash&logo=gnu-bash&logoColor=white&color=77216F
-[javascript]: https://img.shields.io/static/v1?label=language&labelColor=black&message=javascript&logo=javascript&logoColor=FBF152&color=FBF152
+[shell]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=posix&logo=gnu-bash&logoColor=white&color=77216F&style=flat-square
+[bash]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=bash&logo=gnu-bash&logoColor=white&color=77216F&style=flat-square
+[javascript]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=javascript&logo=javascript&logoColor=FBF152&color=FBF152&style=flat-square
 
 <!-- End: Language badges -->
