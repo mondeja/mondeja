@@ -17,6 +17,7 @@ I help maintaining the following open source projects:
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
 | [http-request-codegen][http-request-codegen-github] | [![PyPI][http-request-codegen-pypi-badge]][http-request-codegen-pypi-link] | [![GitHub last commit][http-request-codegen-last-commit-badge]][http-request-codegen-last-commit-link] | [![PyPI - Downloads][http-request-codegen-pypi-downloads-badge]][http-request-codegen-pypi-downloads-link] | [![Tests][http-request-codegen-state-badge]][http-request-codegen-state-link] |
 | [pytest-blender][pytest-blender-github] | [![PyPI][pytest-blender-pypi-badge]][pytest-blender-pypi-link] | [![GitHub last commit][pytest-blender-last-commit-badge]][pytest-blender-last-commit-link] | [![PyPI - Downloads][pytest-blender-pypi-downloads-badge]][pytest-blender-pypi-downloads-link] | [![Tests][pytest-blender-state-badge]][pytest-blender-state-link] |
+| [braille-l18n (Inkscape extension)][inkscape-braille-l18n-ext-github] | [![Releases][inkscape-braille-l18n-ext-releases-badge]][inkscape-braille-l18n-ext-releases-link] | [![GitHub last commit][inkscape-braille-l18n-ext-last-commit-badge]][inkscape-braille-l18n-ext-last-commit-link] |  | [![Tests][inkscape-braille-l18n-ext-state-badge]][inkscape-braille-l18n-ext-state-link] |
 | [cartocss-doc-parser][cartocss-doc-parser-github] | [![PyPI][cartocss-doc-parser-pypi-badge]][cartocss-doc-parser-pypi-link] | [![GitHub last commit][cartocss-doc-parser-last-commit-badge]][cartocss-doc-parser-last-commit-link] | [![PyPI - Downloads][cartocss-doc-parser-pypi-downloads-badge]][cartocss-doc-parser-pypi-downloads-link] | [![Tests][cartocss-doc-parser-state-badge]][cartocss-doc-parser-state-link] |
 | [pgdoc-datatype-parser][pgdoc-datatype-parser-github] | [![PyPI][pgdoc-datatype-parser-pypi-badge]][pgdoc-datatype-parser-pypi-link] | [![GitHub last commit][pgdoc-datatype-parser-last-commit-badge]][pgdoc-datatype-parser-last-commit-link] | [![PyPI - Downloads][pgdoc-datatype-parser-pypi-downloads-badge]][pgdoc-datatype-parser-pypi-downloads-link] | [![Tests][pgdoc-datatype-parser-state-badge]][pgdoc-datatype-parser-state-link] |
 | [potojson][potojson-github] | [![PyPI][potojson-pypi-badge]][potojson-pypi-link] | [![GitHub last commit][potojson-last-commit-badge]][potojson-last-commit-link] | [![PyPI - Downloads][potojson-pypi-downloads-badge]][potojson-pypi-downloads-link] | [![Tests][potojson-state-badge]][potojson-state-link] |
@@ -147,6 +148,14 @@ I help maintaining the following open source projects:
 [pytest-blender-pypi-downloads-link]: https://pypistats.org/packages/pytest-blender
 [pytest-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pytest-blender/CI?logo=github&label=tests&style=flat-square
 [pytest-blender-state-link]: https://github.com/mondeja/pytest-blender/actions?query=workflow%3ACI
+
+[inkscape-braille-l18n-ext-github]: https://github.com/mondeja/inkscape-braille-l18n-ext
+[inkscape-braille-l18n-ext-releases-badge]: https://img.shields.io/github/v/release/mondeja/inkscape-braille-l18n-ext?style=flat-square
+[inkscape-braille-l18n-ext-releases-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
+[inkscape-braille-l18n-ext-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/inkscape-braille-l18n-ext?style=flat-square
+[inkscape-braille-l18n-ext-last-commit-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/commits
+[inkscape-braille-l18n-ext-state-badge]: https://img.shields.io/github/workflow/status/mondeja/inkscape-braille-l18n-ext/CI?logo=github&label=tests&style=flat-square
+[inkscape-braille-l18n-ext-state-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/actions?query=workflow%3ACI
 
 [cartocss-doc-parser-github]: https://github.com/mondeja/cartocss-doc-parser
 [cartocss-doc-parser-pypi-badge]: https://img.shields.io/pypi/v/cartocss-doc-parser?style=flat-square&logo=python&logoColor=white
