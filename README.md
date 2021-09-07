@@ -36,7 +36,7 @@ I help maintaining the following open source projects:
 
 ## Starter templates
 
-| Name | Languages | Techs |
+| Name | Languages | Technologies |
 | --- | --- | --- |
 | [actix-react-starter-template][actix-react-starter-template-github] | [Rust], [Typescript] | [ACTIX], [React], [Webpack] |
 | [django-svelte-start][django-svelte-start-github] | [Python], [Javascript] | [Django], [Svelte], [Webpack] |
@@ -157,7 +157,7 @@ I help maintaining the following open source projects:
 [pytest-blender-state-link]: https://github.com/mondeja/pytest-blender/actions?query=workflow%3ACI
 
 [inkscape-braille-l18n-ext-github]: https://github.com/mondeja/inkscape-braille-l18n-ext
-[inkscape-braille-l18n-ext-releases-badge]: https://img.shields.io/github/v/release/mondeja/inkscape-braille-l18n-ext?style=flat-square
+[inkscape-braille-l18n-ext-releases-badge]: https://img.shields.io/github/v/release/mondeja/inkscape-braille-l18n-ext?style=flat-square&logo=github&logoColor=white&label=github
 [inkscape-braille-l18n-ext-releases-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
 [inkscape-braille-l18n-ext-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/inkscape-braille-l18n-ext?style=flat-square
 [inkscape-braille-l18n-ext-last-commit-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/commits
