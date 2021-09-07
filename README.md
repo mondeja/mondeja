@@ -34,6 +34,13 @@ I help maintaining the following open source projects:
 | [simple-icons-font][simple-icons-font-github] | [![NPM][simple-icons-font-npm-badge]][simple-icons-font-npm-link] | [![GitHub last commit][simple-icons-font-last-commit-badge]][simple-icons-font-last-commit-link] | [![NPM - Downloads][simple-icons-font-npm-downloads-badge]][simple-icons-font-npm-link] | [![Tests][simple-icons-font-state-badge]][simple-icons-font-state-link] |
 | [woff2otf][woff2otf-github] | [![NPM][woff2otf-npm-badge]][woff2otf-npm-link] | [![GitHub last commit][woff2otf-last-commit-badge]][woff2otf-last-commit-link] | [![NPM - Downloads][woff2otf-npm-downloads-badge]][woff2otf-npm-link] | [![Tests][woff2otf-state-badge]][woff2otf-state-link] |
 
+## Starter templates
+
+| Name | Languages | Techs |
+| --- | --- | --- |
+| [actix-react-starter-template][actix-react-starter-template-github] | [Rust], [Typescript] | [ACTIX], [React], [Webpack] |
+| [django-svelte-start][django-svelte-start-github] | [Python], [Javascript] | [Django], [Svelte], [Webpack] |
+
 ## Github Actions
 
 | Name | Release | Activity | State | Language
@@ -258,6 +265,13 @@ I help maintaining the following open source projects:
 
 <!-- End: Javascript projects links -->
 
+<!-- Starter templates links -->
+
+[django-svelte-start-github]: https://github.com/mondeja/django-svelte-start
+
+[actix-react-starter-template-github]: https://github.com/mondeja/actix-react-starter-template
+
+<!-- End: Starter templates links -->
 
 <!-- Github Actions links -->
 
@@ -294,3 +308,18 @@ I help maintaining the following open source projects:
 [javascript]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=javascript&logo=javascript&logoColor=FBF152&color=FBF152&style=flat-square
 
 <!-- End: Language badges -->
+
+<!-- Language/techs links -->
+
+[Rust]: https://www.rust-lang.org
+[Python]: https://python.org
+[Javascript]: https://www.javascript.com
+[Typescript]: https://www.typescriptlang.org
+
+[ACTIX]: https://actix.rs
+[React]: https://reactjs.org
+[Django]: https://www.djangoproject.com
+[Svelte]: https://svelte.dev
+[Webpack]: https://webpack.js.org
+
+<!-- End: Language/techs links -->
