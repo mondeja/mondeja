@@ -36,10 +36,10 @@ I help maintaining the following open source projects:
 
 ## Starter templates
 
-| Name | Languages | Technologies |
-| --- | --- | --- |
-| [actix-react-starter-template][actix-react-starter-template-github] | [Rust], [Typescript] | [ACTIX], [React], [Webpack] |
-| [django-svelte-start][django-svelte-start-github] | [Python], [Javascript] | [Django], [Svelte], [Webpack] |
+| Name | Languages | Technologies | State |
+| --- | --- | --- | --- |
+| [actix-react-starter-template][actix-react-starter-template-github] | [Rust], [Typescript] | [ACTIX], [React], [Webpack] | [![Tests][actix-react-starter-template-state-badge]][actix-react-starter-template-state-link] |
+| [django-svelte-start][django-svelte-start-github] | [Python], [Javascript] | [Django], [Svelte], [Webpack] | [![Tests][django-svelte-start-state-badge]][django-svelte-start-state-link] |
 
 ## Github Actions
 
@@ -267,9 +267,13 @@ I help maintaining the following open source projects:
 
 <!-- Starter templates links -->
 
-[django-svelte-start-github]: https://github.com/mondeja/django-svelte-start
-
 [actix-react-starter-template-github]: https://github.com/mondeja/actix-react-starter-template
+[actix-react-starter-template-state-badge]: https://img.shields.io/github/workflow/status/mondeja/actix-react-starter-template/Tests?label=tests&logo=github&style=flat-square
+[actix-react-starter-template-state-link]: https://github.com/mondeja/actix-react-starter-template/actions/workflows/test.yml
+
+[django-svelte-start-github]: https://github.com/mondeja/django-svelte-start
+[django-svelte-start-state-badge]: https://img.shields.io/github/workflow/status/mondeja/django-svelte-start/pre-commit?label=check&logo=github&style=flat-square
+[django-svelte-start-state-link]: https://github.com/mondeja/django-svelte-start/actions/workflows/pre-commit.yml
 
 <!-- End: Starter templates links -->
 
