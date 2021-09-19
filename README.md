@@ -45,9 +45,9 @@ I help maintaining the following open source projects:
 
 | Name | Release | Activity | State | Language
 | --- | --- | --- | --- | --- |
-| [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] | ![Shell][shell] |
 | [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] | [![Tests][remove-labels-gh-action-state-badge]][remove-labels-gh-action-state-link] | ![Javascript][javascript] |
-| [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Bash][bash] |
+| [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] | ![Shell][shell] |
+| [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Shell][shell] |
 
 
 <!-- LINKS -->
