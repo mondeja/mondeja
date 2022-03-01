@@ -48,6 +48,7 @@ I help maintaining the following open source projects:
 | [remove-labels-gh-action][remove-labels-gh-action-github] | [![Github release][remove-labels-gh-action-release-badge]][remove-labels-gh-action-release-link] | [![GitHub last commit][remove-labels-gh-action-last-commit-badge]][remove-labels-gh-action-last-commit-link] | [![Tests][remove-labels-gh-action-state-badge]][remove-labels-gh-action-state-link] | ![Javascript][javascript] |
 | [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] | ![Shell][shell] |
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Shell][shell] |
+| [strip-gh-theme-links][strip-gh-theme-links-github] | [![Github release][strip-gh-theme-links-release-badge]][strip-gh-theme-links-release-link] | [![GitHub last commit][strip-gh-theme-links-last-commit-badge]][strip-gh-theme-links-last-commit-link] | [![Tests][strip-gh-theme-links-state-badge]][strip-gh-theme-links-state-link] | ![Typescript][typescript] |
 
 
 <!-- LINKS -->
@@ -303,6 +304,14 @@ I help maintaining the following open source projects:
 [pr-linked-issues-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pr-linked-issues-action/CI?logo=github&label=tests&style=flat-square
 [pr-linked-issues-action-state-link]: https://github.com/mondeja/pr-linked-issues-action/actions?query=workflow%3ACI
 
+[strip-gh-theme-links-github]: https://github.com/mondeja/strip-gh-theme-links
+[strip-gh-theme-links-release-badge]: https://img.shields.io/github/v/release/mondeja/strip-gh-theme-links?logo=github&style=flat-square
+[strip-gh-theme-links-release-link]: https://github.com/mondeja/strip-gh-theme-links/releases/latest
+[strip-gh-theme-links-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/strip-gh-theme-links?style=flat-square
+[strip-gh-theme-links-last-commit-link]: https://github.com/mondeja/strip-gh-theme-links/commits
+[strip-gh-theme-links-state-badge]: https://img.shields.io/github/workflow/status/mondeja/strip-gh-theme-links/CI?logo=github&label=tests&style=flat-square
+[strip-gh-theme-links-state-link]: https://github.com/mondeja/strip-gh-theme-links/actions?query=workflow%3ACI
+
 <!-- End: Github Actions links -->
 
 <!-- Language badges -->
@@ -310,6 +319,7 @@ I help maintaining the following open source projects:
 [shell]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=posix&logo=gnu-bash&logoColor=white&color=77216F&style=flat-square
 [bash]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=bash&logo=gnu-bash&logoColor=white&color=77216F&style=flat-square
 [javascript]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=javascript&logo=javascript&logoColor=FBF152&color=FBF152&style=flat-square
+[typescript]: https://img.shields.io/static/v1?label=%20&labelColor=rgba(0,0,0,0)&message=typescript&logo=javascript&logoColor=3178C6&color=3178C6&style=flat-square
 
 <!-- End: Language badges -->
 
