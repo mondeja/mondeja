@@ -11,7 +11,6 @@ I help maintaining the following open source projects:
 | [mdpo][mdpo-github] | [![PyPI][mdpo-pypi-badge]][mdpo-pypi-link] | [![GitHub last commit][mdpo-last-commit-badge]][mdpo-last-commit-link] | [![PyPI - Downloads][mdpo-pypi-downloads-badge]][mdpo-pypi-downloads-link] | [![Tests][mdpo-state-badge]][mdpo-state-link] |
 | [mkdocs-mdpo-plugin][mkdocs-mdpo-plugin-github] | [![PyPI][mkdocs-mdpo-plugin-pypi-badge]][mkdocs-mdpo-plugin-pypi-link] | [![GitHub last commit][mkdocs-mdpo-plugin-last-commit-badge]][mkdocs-mdpo-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-mdpo-plugin-pypi-downloads-badge]][mkdocs-mdpo-plugin-pypi-downloads-link] |  [![Tests][mkdocs-mdpo-plugin-state-badge]][mkdocs-mdpo-plugin-state-link] |
 | [mkdocs-include-markdown-plugin][mkdocs-include-markdown-plugin-github] | [![PyPI][mkdocs-include-markdown-plugin-pypi-badge]][mkdocs-include-markdown-plugin-pypi-link] | [![GitHub last commit][mkdocs-include-markdown-plugin-last-commit-badge]][mkdocs-include-markdown-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-include-markdown-plugin-pypi-downloads-badge]][mkdocs-include-markdown-plugin-pypi-downloads-link] |  [![Tests][mkdocs-include-markdown-plugin-state-badge]][mkdocs-include-markdown-plugin-state-link] |
-| [repo-stream][repo-stream-github] | [![PyPI][repo-stream-pypi-badge]][repo-stream-pypi-link] | [![GitHub last commit][repo-stream-last-commit-badge]][repo-stream-last-commit-link] | [![PyPI - Downloads][repo-stream-pypi-downloads-badge]][repo-stream-pypi-downloads-link] |  [![Tests][repo-stream-state-badge]][repo-stream-state-link] |
 | [mondeja-pre-commit-hooks][mondeja-pre-commit-hooks-github] | [![PyPI][mondeja-pre-commit-hooks-pypi-badge]][mondeja-pre-commit-hooks-pypi-link] | [![GitHub last commit][mondeja-pre-commit-hooks-last-commit-badge]][mondeja-pre-commit-hooks-last-commit-link] | [![PyPI - Downloads][mondeja-pre-commit-hooks-pypi-downloads-badge]][mondeja-pre-commit-hooks-pypi-downloads-link] | [![Tests][mondeja-pre-commit-hooks-state-badge]][mondeja-pre-commit-hooks-state-link] |
 | [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] | [![Tests][pre-commit-po-hooks-state-badge]][pre-commit-po-hooks-state-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
@@ -97,16 +96,6 @@ I help maintaining the following open source projects:
 [mkdocs-include-markdown-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-include-markdown-plugin
 [mkdocs-include-markdown-plugin-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mkdocs-include-markdown-plugin/CI?logo=github&label=tests&style=flat-square
 [mkdocs-include-markdown-plugin-state-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/actions?query=workflow%3ACI
-
-[repo-stream-github]: https://github.com/mondeja/repo-stream
-[repo-stream-pypi-badge]: https://img.shields.io/pypi/v/repo-stream?style=flat-square&logo=python&logoColor=white
-[repo-stream-pypi-link]: https://pypi.org/project/repo-stream
-[repo-stream-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/repo-stream?style=flat-square
-[repo-stream-last-commit-link]: https://github.com/mondeja/repo-stream/commits
-[repo-stream-pypi-downloads-badge]: https://img.shields.io/pypi/dm/repo-stream?style=flat-square
-[repo-stream-pypi-downloads-link]: https://pypistats.org/packages/repo-stream
-[repo-stream-state-badge]: https://img.shields.io/github/workflow/status/mondeja/repo-stream/CI?logo=github&label=tests&style=flat-square
-[repo-stream-state-link]: https://github.com/mondeja/repo-stream/actions?query=workflow%CI
 
 [mondeja-pre-commit-hooks-github]: https://github.com/mondeja/pre-commit-hooks
 [mondeja-pre-commit-hooks-pypi-badge]: https://img.shields.io/pypi/v/mondeja-pre-commit-hooks?style=flat-square&logo=python&logoColor=white
