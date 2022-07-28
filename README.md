@@ -9,14 +9,13 @@ I help maintaining the following open source projects:
 | Name | Release | Activity | Popularity | State |
 | --- | --- | ---- | --- | --- |
 | [mdpo][mdpo-github] | [![PyPI][mdpo-pypi-badge]][mdpo-pypi-link] | [![GitHub last commit][mdpo-last-commit-badge]][mdpo-last-commit-link] | [![PyPI - Downloads][mdpo-pypi-downloads-badge]][mdpo-pypi-downloads-link] | [![Tests][mdpo-state-badge]][mdpo-state-link] |
-| [mkdocs-mdpo-plugin][mkdocs-mdpo-plugin-github] | [![PyPI][mkdocs-mdpo-plugin-pypi-badge]][mkdocs-mdpo-plugin-pypi-link] | [![GitHub last commit][mkdocs-mdpo-plugin-last-commit-badge]][mkdocs-mdpo-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-mdpo-plugin-pypi-downloads-badge]][mkdocs-mdpo-plugin-pypi-downloads-link] |  [![Tests][mkdocs-mdpo-plugin-state-badge]][mkdocs-mdpo-plugin-state-link] |
+| [project-config][project-config-github] | [![PyPI][project-config-pypi-badge]][project-config-pypi-link] | [![GitHub last commit][project-config-last-commit-badge]][project-config-last-commit-link] | [![PyPI - Downloads][project-config-pypi-downloads-badge]][project-config-pypi-downloads-link] |  [![Tests][project-config-state-badge]][project-config-state-link] |
 | [mkdocs-include-markdown-plugin][mkdocs-include-markdown-plugin-github] | [![PyPI][mkdocs-include-markdown-plugin-pypi-badge]][mkdocs-include-markdown-plugin-pypi-link] | [![GitHub last commit][mkdocs-include-markdown-plugin-last-commit-badge]][mkdocs-include-markdown-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-include-markdown-plugin-pypi-downloads-badge]][mkdocs-include-markdown-plugin-pypi-downloads-link] |  [![Tests][mkdocs-include-markdown-plugin-state-badge]][mkdocs-include-markdown-plugin-state-link] |
-| [repo-stream][repo-stream-github] | [![PyPI][repo-stream-pypi-badge]][repo-stream-pypi-link] | [![GitHub last commit][repo-stream-last-commit-badge]][repo-stream-last-commit-link] | [![PyPI - Downloads][repo-stream-pypi-downloads-badge]][repo-stream-pypi-downloads-link] |  [![Tests][repo-stream-state-badge]][repo-stream-state-link] |
+| [pytest-blender][pytest-blender-github] | [![PyPI][pytest-blender-pypi-badge]][pytest-blender-pypi-link] | [![GitHub last commit][pytest-blender-last-commit-badge]][pytest-blender-last-commit-link] | [![PyPI - Downloads][pytest-blender-pypi-downloads-badge]][pytest-blender-pypi-downloads-link] | [![Tests][pytest-blender-state-badge]][pytest-blender-state-link] |
 | [mondeja-pre-commit-hooks][mondeja-pre-commit-hooks-github] | [![PyPI][mondeja-pre-commit-hooks-pypi-badge]][mondeja-pre-commit-hooks-pypi-link] | [![GitHub last commit][mondeja-pre-commit-hooks-last-commit-badge]][mondeja-pre-commit-hooks-last-commit-link] | [![PyPI - Downloads][mondeja-pre-commit-hooks-pypi-downloads-badge]][mondeja-pre-commit-hooks-pypi-downloads-link] | [![Tests][mondeja-pre-commit-hooks-state-badge]][mondeja-pre-commit-hooks-state-link] |
 | [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] | [![Tests][pre-commit-po-hooks-state-badge]][pre-commit-po-hooks-state-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
 | [http-request-codegen][http-request-codegen-github] | [![PyPI][http-request-codegen-pypi-badge]][http-request-codegen-pypi-link] | [![GitHub last commit][http-request-codegen-last-commit-badge]][http-request-codegen-last-commit-link] | [![PyPI - Downloads][http-request-codegen-pypi-downloads-badge]][http-request-codegen-pypi-downloads-link] | [![Tests][http-request-codegen-state-badge]][http-request-codegen-state-link] |
-| [pytest-blender][pytest-blender-github] | [![PyPI][pytest-blender-pypi-badge]][pytest-blender-pypi-link] | [![GitHub last commit][pytest-blender-last-commit-badge]][pytest-blender-last-commit-link] | [![PyPI - Downloads][pytest-blender-pypi-downloads-badge]][pytest-blender-pypi-downloads-link] | [![Tests][pytest-blender-state-badge]][pytest-blender-state-link] |
 | [braille-l18n (Inkscape extension)][inkscape-braille-l18n-ext-github] | [![Releases][inkscape-braille-l18n-ext-releases-badge]][inkscape-braille-l18n-ext-releases-link] | [![GitHub last commit][inkscape-braille-l18n-ext-last-commit-badge]][inkscape-braille-l18n-ext-last-commit-link] |  | [![Tests][inkscape-braille-l18n-ext-state-badge]][inkscape-braille-l18n-ext-state-link] |
 | [cartocss-doc-parser][cartocss-doc-parser-github] | [![PyPI][cartocss-doc-parser-pypi-badge]][cartocss-doc-parser-pypi-link] | [![GitHub last commit][cartocss-doc-parser-last-commit-badge]][cartocss-doc-parser-last-commit-link] | [![PyPI - Downloads][cartocss-doc-parser-pypi-downloads-badge]][cartocss-doc-parser-pypi-downloads-link] | [![Tests][cartocss-doc-parser-state-badge]][cartocss-doc-parser-state-link] |
 | [pgdoc-datatype-parser][pgdoc-datatype-parser-github] | [![PyPI][pgdoc-datatype-parser-pypi-badge]][pgdoc-datatype-parser-pypi-link] | [![GitHub last commit][pgdoc-datatype-parser-last-commit-badge]][pgdoc-datatype-parser-last-commit-link] | [![PyPI - Downloads][pgdoc-datatype-parser-pypi-downloads-badge]][pgdoc-datatype-parser-pypi-downloads-link] | [![Tests][pgdoc-datatype-parser-state-badge]][pgdoc-datatype-parser-state-link] |
@@ -78,15 +77,15 @@ I help maintaining the following open source projects:
 [mdpo-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?logo=github&label=tests&style=flat-square
 [mdpo-state-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ATest
 
-[mkdocs-mdpo-plugin-github]: https://github.com/mondeja/mkdocs-mdpo-plugin
-[mkdocs-mdpo-plugin-pypi-badge]: https://img.shields.io/pypi/v/mkdocs-mdpo-plugin?style=flat-square&logo=python&logoColor=white
-[mkdocs-mdpo-plugin-pypi-link]: https://pypi.org/project/mkdocs-mdpo-plugin
-[mkdocs-mdpo-plugin-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/mkdocs-mdpo-plugin?style=flat-square
-[mkdocs-mdpo-plugin-last-commit-link]: https://github.com/mondeja/mkdocs-mdpo-plugin/commits
-[mkdocs-mdpo-plugin-pypi-downloads-badge]: https://img.shields.io/pypi/dm/mkdocs-mdpo-plugin?style=flat-square
-[mkdocs-mdpo-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-mdpo-plugin
-[mkdocs-mdpo-plugin-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mkdocs-mdpo-plugin/CI?logo=github&label=tests&style=flat-square
-[mkdocs-mdpo-plugin-state-link]: https://github.com/mondeja/mkdocs-mdpo-plugin/actions?query=workflow%3ACI
+[project-config-github]: https://github.com/mondeja/project-config
+[project-config-pypi-badge]: https://img.shields.io/pypi/v/project-config?style=flat-square&logo=python&logoColor=white
+[project-config-pypi-link]: https://pypi.org/project/project-config
+[project-config-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/project-config?style=flat-square
+[project-config-last-commit-link]: https://github.com/mondeja/project-config/commits
+[project-config-pypi-downloads-badge]: https://img.shields.io/pypi/dm/project-config?style=flat-square
+[project-config-pypi-downloads-link]: https://pypistats.org/packages/project-config
+[project-config-state-badge]: https://img.shields.io/github/workflow/status/mondeja/project-config/CI?logo=github&label=tests&style=flat-square
+[project-config-state-link]: https://github.com/mondeja/project-config/actions?query=workflow%3ACI
 
 [mkdocs-include-markdown-plugin-github]: https://github.com/mondeja/mkdocs-include-markdown-plugin
 [mkdocs-include-markdown-plugin-pypi-badge]: https://img.shields.io/pypi/v/mkdocs-include-markdown-plugin?style=flat-square&logo=python&logoColor=white
@@ -97,16 +96,6 @@ I help maintaining the following open source projects:
 [mkdocs-include-markdown-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-include-markdown-plugin
 [mkdocs-include-markdown-plugin-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mkdocs-include-markdown-plugin/CI?logo=github&label=tests&style=flat-square
 [mkdocs-include-markdown-plugin-state-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/actions?query=workflow%3ACI
-
-[repo-stream-github]: https://github.com/mondeja/repo-stream
-[repo-stream-pypi-badge]: https://img.shields.io/pypi/v/repo-stream?style=flat-square&logo=python&logoColor=white
-[repo-stream-pypi-link]: https://pypi.org/project/repo-stream
-[repo-stream-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/repo-stream?style=flat-square
-[repo-stream-last-commit-link]: https://github.com/mondeja/repo-stream/commits
-[repo-stream-pypi-downloads-badge]: https://img.shields.io/pypi/dm/repo-stream?style=flat-square
-[repo-stream-pypi-downloads-link]: https://pypistats.org/packages/repo-stream
-[repo-stream-state-badge]: https://img.shields.io/github/workflow/status/mondeja/repo-stream/CI?logo=github&label=tests&style=flat-square
-[repo-stream-state-link]: https://github.com/mondeja/repo-stream/actions?query=workflow%CI
 
 [mondeja-pre-commit-hooks-github]: https://github.com/mondeja/pre-commit-hooks
 [mondeja-pre-commit-hooks-pypi-badge]: https://img.shields.io/pypi/v/mondeja-pre-commit-hooks?style=flat-square&logo=python&logoColor=white
