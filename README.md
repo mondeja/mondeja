@@ -74,8 +74,8 @@ I help maintaining the following open source projects:
 [mdpo-pypi-downloads-link]: https://pypistats.org/packages/mdpo
 [mdpo-stars-badge]: https://img.shields.io/github/stars/mondeja/mdpo?label=%E2%99%A1&logo=invalid&style=social
 [mdpo-stars-link]: https://github.com/mondeja/mdpo/stargazers
-[mdpo-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?logo=github&label=tests&style=flat-square
-[mdpo-state-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ATest
+[mdpo-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mdpo/CI?logo=github&label=tests&style=flat-square
+[mdpo-state-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ACI
 
 [project-config-github]: https://github.com/mondeja/project-config
 [project-config-pypi-badge]: https://img.shields.io/pypi/v/project-config?style=flat-square&logo=python&logoColor=white
@@ -162,8 +162,8 @@ I help maintaining the following open source projects:
 [cartocss-doc-parser-last-commit-link]: https://github.com/mondeja/cartocss-doc-parser/commits
 [cartocss-doc-parser-pypi-downloads-badge]: https://img.shields.io/pypi/dm/cartocss-doc-parser?style=flat-square
 [cartocss-doc-parser-pypi-downloads-link]: https://pypistats.org/packages/cartocss-doc-parser
-[cartocss-doc-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/cartocss-doc-parser/Test?logo=github&label=tests&style=flat-square
-[cartocss-doc-parser-state-link]: https://github.com/mondeja/cartocss-doc-parser/actions?query=workflow%3ATest
+[cartocss-doc-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/cartocss-doc-parser/CI?logo=github&label=tests&style=flat-square
+[cartocss-doc-parser-state-link]: https://github.com/mondeja/cartocss-doc-parser/actions?query=workflow%3ACI
 
 [pgdoc-datatype-parser-github]: https://github.com/mondeja/pgdoc-datatype-parser
 [pgdoc-datatype-parser-pypi-badge]: https://img.shields.io/pypi/v/pgdoc-datatype-parser?style=flat-square&logo=python&logoColor=white
@@ -215,8 +215,8 @@ I help maintaining the following open source projects:
 [svg-path-bbox-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-bbox?style=flat-square
 [svg-path-bbox-last-commit-link]: https://github.com/mondeja/svg-path-bbox/commits
 [svg-path-bbox-npm-downloads-badge]: https://img.shields.io/npm/dm/svg-path-bbox?style=flat-square
-[svg-path-bbox-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-bbox/Test?logo=github&label=tests&style=flat-square
-[svg-path-bbox-state-link]: https://github.com/mondeja/svg-path-bbox/actions?query=workflow%3ATest
+[svg-path-bbox-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-bbox/CI?logo=github&label=tests&style=flat-square
+[svg-path-bbox-state-link]: https://github.com/mondeja/svg-path-bbox/actions?query=workflow%3ACI
 
 [svg-path-segments-github]: https://github.com/mondeja/svg-path-segments
 [svg-path-segments-npm-badge]: https://img.shields.io/npm/v/svg-path-segments?style=flat-square&logo=npm
