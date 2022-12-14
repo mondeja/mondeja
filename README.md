@@ -2,7 +2,7 @@
 
 [![Email][email-badge]][email-link] [![Gitlab][gitlab-badge]][gitlab-link]
 
-I help maintaining the following open source projects:
+I help maintaining the following open source projects, among others[^1]:
 
 ## Python
 
@@ -12,16 +12,10 @@ I help maintaining the following open source projects:
 | [project-config][project-config-github] | [![PyPI][project-config-pypi-badge]][project-config-pypi-link] | [![GitHub last commit][project-config-last-commit-badge]][project-config-last-commit-link] | [![PyPI - Downloads][project-config-pypi-downloads-badge]][project-config-pypi-downloads-link] |  [![Tests][project-config-state-badge]][project-config-state-link] |
 | [mkdocs-include-markdown-plugin][mkdocs-include-markdown-plugin-github] | [![PyPI][mkdocs-include-markdown-plugin-pypi-badge]][mkdocs-include-markdown-plugin-pypi-link] | [![GitHub last commit][mkdocs-include-markdown-plugin-last-commit-badge]][mkdocs-include-markdown-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-include-markdown-plugin-pypi-downloads-badge]][mkdocs-include-markdown-plugin-pypi-downloads-link] |  [![Tests][mkdocs-include-markdown-plugin-state-badge]][mkdocs-include-markdown-plugin-state-link] |
 | [pytest-blender][pytest-blender-github] | [![PyPI][pytest-blender-pypi-badge]][pytest-blender-pypi-link] | [![GitHub last commit][pytest-blender-last-commit-badge]][pytest-blender-last-commit-link] | [![PyPI - Downloads][pytest-blender-pypi-downloads-badge]][pytest-blender-pypi-downloads-link] | [![Tests][pytest-blender-state-badge]][pytest-blender-state-link] |
-| [mondeja-pre-commit-hooks][mondeja-pre-commit-hooks-github] | [![PyPI][mondeja-pre-commit-hooks-pypi-badge]][mondeja-pre-commit-hooks-pypi-link] | [![GitHub last commit][mondeja-pre-commit-hooks-last-commit-badge]][mondeja-pre-commit-hooks-last-commit-link] | [![PyPI - Downloads][mondeja-pre-commit-hooks-pypi-downloads-badge]][mondeja-pre-commit-hooks-pypi-downloads-link] | [![Tests][mondeja-pre-commit-hooks-state-badge]][mondeja-pre-commit-hooks-state-link] |
 | [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] | [![Tests][pre-commit-po-hooks-state-badge]][pre-commit-po-hooks-state-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
-| [http-request-codegen][http-request-codegen-github] | [![PyPI][http-request-codegen-pypi-badge]][http-request-codegen-pypi-link] | [![GitHub last commit][http-request-codegen-last-commit-badge]][http-request-codegen-last-commit-link] | [![PyPI - Downloads][http-request-codegen-pypi-downloads-badge]][http-request-codegen-pypi-downloads-link] | [![Tests][http-request-codegen-state-badge]][http-request-codegen-state-link] |
+| [simple-icons-blender][simple-icons-blender-github] | [![PyPI][simple-icons-blender-pypi-badge]][simple-icons-blender-pypi-link] | [![GitHub last commit][simple-icons-blender-last-commit-badge]][simple-icons-blender-last-commit-link] | | [![Tests][simple-icons-blender-state-badge]][simple-icons-blender-state-link] |
 | [braille-l18n (Inkscape extension)][inkscape-braille-l18n-ext-github] | [![Releases][inkscape-braille-l18n-ext-releases-badge]][inkscape-braille-l18n-ext-releases-link] | [![GitHub last commit][inkscape-braille-l18n-ext-last-commit-badge]][inkscape-braille-l18n-ext-last-commit-link] |  | [![Tests][inkscape-braille-l18n-ext-state-badge]][inkscape-braille-l18n-ext-state-link] |
-| [cartocss-doc-parser][cartocss-doc-parser-github] | [![PyPI][cartocss-doc-parser-pypi-badge]][cartocss-doc-parser-pypi-link] | [![GitHub last commit][cartocss-doc-parser-last-commit-badge]][cartocss-doc-parser-last-commit-link] | [![PyPI - Downloads][cartocss-doc-parser-pypi-downloads-badge]][cartocss-doc-parser-pypi-downloads-link] | [![Tests][cartocss-doc-parser-state-badge]][cartocss-doc-parser-state-link] |
-| [pgdoc-datatype-parser][pgdoc-datatype-parser-github] | [![PyPI][pgdoc-datatype-parser-pypi-badge]][pgdoc-datatype-parser-pypi-link] | [![GitHub last commit][pgdoc-datatype-parser-last-commit-badge]][pgdoc-datatype-parser-last-commit-link] | [![PyPI - Downloads][pgdoc-datatype-parser-pypi-downloads-badge]][pgdoc-datatype-parser-pypi-downloads-link] | [![Tests][pgdoc-datatype-parser-state-badge]][pgdoc-datatype-parser-state-link] |
-| [potojson][potojson-github] | [![PyPI][potojson-pypi-badge]][potojson-pypi-link] | [![GitHub last commit][potojson-last-commit-badge]][potojson-last-commit-link] | [![PyPI - Downloads][potojson-pypi-downloads-badge]][potojson-pypi-downloads-link] | [![Tests][potojson-state-badge]][potojson-state-link] |
-| [hunspellcheck][hunspellcheck-github] | [![PyPI][hunspellcheck-pypi-badge]][hunspellcheck-pypi-link] | [![GitHub last commit][hunspellcheck-last-commit-badge]][hunspellcheck-last-commit-link] | [![PyPI - Downloads][hunspellcheck-pypi-downloads-badge]][hunspellcheck-pypi-downloads-link] | [![Tests][hunspellcheck-state-badge]][hunspellcheck-state-link] |
-| [moviepy][moviepy-github] | [![PyPI][moviepy-pypi-badge]][moviepy-pypi-link] | [![GitHub last commit][moviepy-last-commit-badge]][moviepy-last-commit-link] | [![PyPI - Downloads][moviepy-pypi-downloads-badge]][moviepy-pypi-downloads-link] | [![Tests][moviepy-state-badge]][moviepy-state-link] |
 
 ## Javascript
 
@@ -32,6 +26,7 @@ I help maintaining the following open source projects:
 | [simple-icons][simple-icons-github] | [![NPM][simple-icons-npm-badge]][simple-icons-npm-link] | [![GitHub last commit][simple-icons-last-commit-badge]][simple-icons-last-commit-link] | [![NPM - Downloads][simple-icons-npm-downloads-badge]][simple-icons-npm-link] | [![Tests][simple-icons-state-badge]][simple-icons-state-link] |
 | [simple-icons-font][simple-icons-font-github] | [![NPM][simple-icons-font-npm-badge]][simple-icons-font-npm-link] | [![GitHub last commit][simple-icons-font-last-commit-badge]][simple-icons-font-last-commit-link] | [![NPM - Downloads][simple-icons-font-npm-downloads-badge]][simple-icons-font-npm-link] | [![Tests][simple-icons-font-state-badge]][simple-icons-font-state-link] |
 | [simple-icons-website][simple-icons-website-github] | [![NPM][simple-icons-website-badge]][simple-icons-website-link] | [![GitHub last commit][simple-icons-website-last-commit-badge]][simple-icons-website-last-commit-link] |  | [![Tests][simple-icons-website-state-badge]][simple-icons-website-state-link] |
+| [simple-icons-drawio][simple-icons-drawio-github] | [![NPM][simple-icons-drawio-badge]][simple-icons-drawio-link] | [![GitHub last commit][simple-icons-drawio-last-commit-badge]][simple-icons-drawio-last-commit-link] |  | [![Tests][simple-icons-drawio-state-badge]][simple-icons-drawio-state-link] |
 | [woff2otf][woff2otf-github] | [![NPM][woff2otf-npm-badge]][woff2otf-npm-link] | [![GitHub last commit][woff2otf-last-commit-badge]][woff2otf-last-commit-link] | [![NPM - Downloads][woff2otf-npm-downloads-badge]][woff2otf-npm-link] | [![Tests][woff2otf-state-badge]][woff2otf-state-link] |
 
 ## Starter templates
@@ -50,6 +45,7 @@ I help maintaining the following open source projects:
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Shell][shell] |
 | [strip-gh-theme-links][strip-gh-theme-links-github] | [![Github release][strip-gh-theme-links-release-badge]][strip-gh-theme-links-release-link] | [![GitHub last commit][strip-gh-theme-links-last-commit-badge]][strip-gh-theme-links-last-commit-link] | [![Tests][strip-gh-theme-links-state-badge]][strip-gh-theme-links-state-link] | ![Javascript][javascript] |
 
+[^1]: [Other projects I maintain](https://github.com/mondeja/mondeja/blob/master/other-projects.md)
 
 <!-- LINKS -->
 
@@ -97,16 +93,6 @@ I help maintaining the following open source projects:
 [mkdocs-include-markdown-plugin-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mkdocs-include-markdown-plugin/CI?logo=github&label=tests&style=flat-square
 [mkdocs-include-markdown-plugin-state-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/actions?query=workflow%3ACI
 
-[mondeja-pre-commit-hooks-github]: https://github.com/mondeja/pre-commit-hooks
-[mondeja-pre-commit-hooks-pypi-badge]: https://img.shields.io/pypi/v/mondeja-pre-commit-hooks?style=flat-square&logo=python&logoColor=white
-[mondeja-pre-commit-hooks-pypi-link]: https://pypi.org/project/mondeja-pre-commit-hooks
-[mondeja-pre-commit-hooks-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pre-commit-hooks?style=flat-square
-[mondeja-pre-commit-hooks-last-commit-link]: https://github.com/mondeja/pre-commit-hooks/commits
-[mondeja-pre-commit-hooks-pypi-downloads-badge]: https://img.shields.io/pypi/dm/mondeja-pre-commit-hooks?style=flat-square
-[mondeja-pre-commit-hooks-pypi-downloads-link]: https://pypistats.org/packages/mondeja-pre-commit-hooks
-[mondeja-pre-commit-hooks-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pre-commit-hooks/CI?logo=github&label=tests&style=flat-square
-[mondeja-pre-commit-hooks-state-link]: https://github.com/mondeja/pre-commit-hooks/actions?query=workflow%CI
-
 [pre-commit-po-hooks-github]: https://github.com/mondeja/pre-commit-po-hooks
 [pre-commit-po-hooks-pypi-badge]: https://img.shields.io/pypi/v/pre-commit-po-hooks?style=flat-square&logo=python&logoColor=white
 [pre-commit-po-hooks-pypi-link]: https://pypi.org/project/pre-commit-po-hooks
@@ -127,15 +113,13 @@ I help maintaining the following open source projects:
 [blender-downloader-state-badge]: https://img.shields.io/github/workflow/status/mondeja/blender-downloader/CI?logo=github&label=tests&style=flat-square
 [blender-downloader-state-link]: https://github.com/mondeja/blender-downloader/actions?query=workflow%CI
 
-[http-request-codegen-github]: https://github.com/mondeja/http-request-codegen
-[http-request-codegen-pypi-badge]: https://img.shields.io/pypi/v/http-request-codegen?style=flat-square&logo=python&logoColor=white
-[http-request-codegen-pypi-link]: https://pypi.org/project/http-request-codegen
-[http-request-codegen-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/http-request-codegen?style=flat-square
-[http-request-codegen-last-commit-link]: https://github.com/mondeja/http-request-codegen/commits
-[http-request-codegen-pypi-downloads-badge]: https://img.shields.io/pypi/dm/http-request-codegen?style=flat-square
-[http-request-codegen-pypi-downloads-link]: https://pypistats.org/packages/http-request-codegen
-[http-request-codegen-state-badge]: https://img.shields.io/github/workflow/status/mondeja/http-request-codegen/CI?label=tests&logo=github&style=flat-square
-[http-request-codegen-state-link]: https://github.com/mondeja/http-request-codegen/actions?query=workflow%3ACI
+[simple-icons-blender-github]: https://github.com/mondeja/simple-icons-blender
+[simple-icons-blender-pypi-badge]: https://img.shields.io/github/v/release/mondeja/simple-icons-blender?label=github&logo=github
+[simple-icons-blender-pypi-link]: https://github.com/mondeja/simple-icons-blender/releases
+[simple-icons-blender-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-blender?style=flat-square
+[simple-icons-blender-last-commit-link]: https://github.com/mondeja/simple-icons-blender/commits
+[simple-icons-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/simple-icons-blender/Release?label=release&logo=github
+[simple-icons-blender-state-link]: https://github.com/mondeja/simple-icons-blender/actions?query=workflow%3ARelease
 
 [pytest-blender-github]: https://github.com/mondeja/pytest-blender
 [pytest-blender-pypi-badge]: https://img.shields.io/pypi/v/pytest-blender?style=flat-square&logo=python&logoColor=white
@@ -154,56 +138,6 @@ I help maintaining the following open source projects:
 [inkscape-braille-l18n-ext-last-commit-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/commits
 [inkscape-braille-l18n-ext-state-badge]: https://img.shields.io/github/workflow/status/mondeja/inkscape-braille-l18n-ext/CI?logo=github&label=tests&style=flat-square
 [inkscape-braille-l18n-ext-state-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/actions?query=workflow%3ACI
-
-[cartocss-doc-parser-github]: https://github.com/mondeja/cartocss-doc-parser
-[cartocss-doc-parser-pypi-badge]: https://img.shields.io/pypi/v/cartocss-doc-parser?style=flat-square&logo=python&logoColor=white
-[cartocss-doc-parser-pypi-link]: https://pypi.org/project/cartocss-doc-parser
-[cartocss-doc-parser-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/cartocss-doc-parser?style=flat-square
-[cartocss-doc-parser-last-commit-link]: https://github.com/mondeja/cartocss-doc-parser/commits
-[cartocss-doc-parser-pypi-downloads-badge]: https://img.shields.io/pypi/dm/cartocss-doc-parser?style=flat-square
-[cartocss-doc-parser-pypi-downloads-link]: https://pypistats.org/packages/cartocss-doc-parser
-[cartocss-doc-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/cartocss-doc-parser/CI?logo=github&label=tests&style=flat-square
-[cartocss-doc-parser-state-link]: https://github.com/mondeja/cartocss-doc-parser/actions?query=workflow%3ACI
-
-[pgdoc-datatype-parser-github]: https://github.com/mondeja/pgdoc-datatype-parser
-[pgdoc-datatype-parser-pypi-badge]: https://img.shields.io/pypi/v/pgdoc-datatype-parser?style=flat-square&logo=python&logoColor=white
-[pgdoc-datatype-parser-pypi-link]: https://pypi.org/project/pgdoc-datatype-parser
-[pgdoc-datatype-parser-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pgdoc-datatype-parser?style=flat-square
-[pgdoc-datatype-parser-last-commit-link]: https://github.com/mondeja/pgdoc-datatype-parser/commits
-[pgdoc-datatype-parser-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pgdoc-datatype-parser?style=flat-square
-[pgdoc-datatype-parser-pypi-downloads-link]: https://pypistats.org/packages/pgdoc-datatype-parser
-[pgdoc-datatype-parser-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pgdoc-datatype-parser/CI?logo=github&label=tests&style=flat-square
-[pgdoc-datatype-parser-state-link]: https://github.com/mondeja/pgdoc-datatype-parser/actions?query=workflow%3ACI
-
-[potojson-github]: https://github.com/mondeja/potojson
-[potojson-pypi-badge]: https://img.shields.io/pypi/v/potojson?style=flat-square&logo=python&logoColor=white
-[potojson-pypi-link]: https://pypi.org/project/potojson
-[potojson-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/potojson?style=flat-square
-[potojson-last-commit-link]: https://github.com/mondeja/potojson/commits
-[potojson-pypi-downloads-badge]: https://img.shields.io/pypi/dm/potojson?style=flat-square
-[potojson-pypi-downloads-link]: https://pypistats.org/packages/potojson
-[potojson-state-badge]: https://img.shields.io/github/workflow/status/mondeja/potojson/CI?logo=github&label=tests&style=flat-square
-[potojson-state-link]: https://github.com/mondeja/potojson/actions?query=workflow%3ACI
-
-[hunspellcheck-github]: https://github.com/mondeja/hunspellcheck
-[hunspellcheck-pypi-badge]: https://img.shields.io/pypi/v/hunspellcheck?style=flat-square&logo=python&logoColor=white
-[hunspellcheck-pypi-link]: https://pypi.org/project/hunspellcheck
-[hunspellcheck-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/hunspellcheck?style=flat-square
-[hunspellcheck-last-commit-link]: https://github.com/mondeja/hunspellcheck/commits
-[hunspellcheck-pypi-downloads-badge]: https://img.shields.io/pypi/dm/hunspellcheck?style=flat-square
-[hunspellcheck-pypi-downloads-link]: https://pypistats.org/packages/hunspellcheck
-[hunspellcheck-state-badge]: https://img.shields.io/github/workflow/status/mondeja/hunspellcheck/CI?logo=github&label=tests&style=flat-square
-[hunspellcheck-state-link]: https://github.com/mondeja/hunspellcheck/actions?query=workflow%3ACI
-
-[moviepy-github]: https://github.com/Zulko/moviepy
-[moviepy-pypi-badge]: https://img.shields.io/pypi/v/moviepy?style=flat-square&logo=python&logoColor=white
-[moviepy-pypi-link]: https://pypi.org/project/moviepy
-[moviepy-last-commit-badge]: https://img.shields.io/github/last-commit/Zulko/moviepy?style=flat-square
-[moviepy-last-commit-link]: https://github.com/Zulko/moviepy/commits
-[moviepy-pypi-downloads-badge]: https://img.shields.io/pypi/dm/moviepy?style=flat-square
-[moviepy-pypi-downloads-link]: https://pypistats.org/packages/moviepy
-[moviepy-state-badge]: https://img.shields.io/github/workflow/status/Zulko/moviepy/Run%20Test%20Suite?logo=github&label=tests&style=flat-square
-[moviepy-state-link]: https://github.com/Zulko/moviepy/actions?query=workflow%3A%22Run+Test+Suite%22
 
 <!-- End: Python projects links -->
 
@@ -252,6 +186,14 @@ I help maintaining the following open source projects:
 [simple-icons-website-last-commit-link]: https://github.com/simple-icons/simple-icons-website/commits
 [simple-icons-website-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons-website/Verify/master?logo=github&label=tests&style=flat-square
 [simple-icons-website-state-link]: https://github.com/simple-icons/simple-icons-website/actions?query=workflow%3AVerify
+
+[simple-icons-drawio-github]: https://github.com/mondeja/simple-icons-drawio#readme
+[simple-icons-drawio-badge]: https://img.shields.io/github/v/release/mondeja/simple-icons-drawio?label=github&logo=diagramsdotnet&logoColor=white
+[simple-icons-drawio-link]: https://github.com/mondeja/simple-icons-drawio
+[simple-icons-drawio-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-drawio?style=flat-square
+[simple-icons-drawio-last-commit-link]: https://github.com/mondeja/simple-icons-drawio/commits
+[simple-icons-drawio-state-badge]: https://img.shields.io/github/workflow/status/mondeja/simple-icons-drawio/Release?label=release&logo=github
+[simple-icons-drawio-state-link]: https://github.com/mondeja/simple-icons-drawio/actions?query=workflow%3ARelease
 
 [woff2otf-github]: https://github.com/mondeja/woff2otf
 [woff2otf-npm-badge]: https://img.shields.io/npm/v/woff2otf?style=flat-square&logo=npm
