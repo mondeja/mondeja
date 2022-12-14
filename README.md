@@ -115,7 +115,7 @@ I help maintaining the following open source projects, among others[^1]:
 
 [simple-icons-blender-github]: https://github.com/mondeja/simple-icons-blender
 [simple-icons-blender-pypi-badge]: https://img.shields.io/github/v/release/mondeja/simple-icons-blender?label=github&logo=github
-[simple-icons-blender-pypi-link]: https://pypi.org/project/simple-icons-blender
+[simple-icons-blender-pypi-link]: https://github.com/mondeja/simple-icons-blender/releases
 [simple-icons-blender-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-blender?style=flat-square
 [simple-icons-blender-last-commit-link]: https://github.com/mondeja/simple-icons-blender/commits
 [simple-icons-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/simple-icons-blender/Release?label=release&logo=github
@@ -187,7 +187,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-website-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons-website/Verify/master?logo=github&label=tests&style=flat-square
 [simple-icons-website-state-link]: https://github.com/simple-icons/simple-icons-website/actions?query=workflow%3AVerify
 
-[simple-icons-drawio-github]: https://github.com/mondeja/simple-icons-drawio
+[simple-icons-drawio-github]: https://github.com/mondeja/simple-icons-drawio#readme
 [simple-icons-drawio-badge]: https://img.shields.io/github/v/release/mondeja/simple-icons-drawio?label=github&logo=diagramsdotnet&logoColor=white
 [simple-icons-drawio-link]: https://github.com/mondeja/simple-icons-drawio
 [simple-icons-drawio-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-drawio?style=flat-square
