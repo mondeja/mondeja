@@ -1,5 +1,3 @@
-Other projects for which I've contributed but currently are a bit abandoned, but I'm still supporting them:
-
 ## Python
 
 | Name | Release | Activity | Popularity | State |
