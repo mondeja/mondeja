@@ -70,7 +70,7 @@ I help maintaining the following open source projects, among others[^1]:
 [mdpo-pypi-downloads-link]: https://pypistats.org/packages/mdpo
 [mdpo-stars-badge]: https://img.shields.io/github/stars/mondeja/mdpo?label=%E2%99%A1&logo=invalid&style=social
 [mdpo-stars-link]: https://github.com/mondeja/mdpo/stargazers
-[mdpo-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mdpo/CI?logo=github&label=tests&style=flat-square
+[mdpo-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/mdpo/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [mdpo-state-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ACI
 
 [project-config-github]: https://github.com/mondeja/project-config
@@ -80,7 +80,7 @@ I help maintaining the following open source projects, among others[^1]:
 [project-config-last-commit-link]: https://github.com/mondeja/project-config/commits
 [project-config-pypi-downloads-badge]: https://img.shields.io/pypi/dm/project-config?style=flat-square
 [project-config-pypi-downloads-link]: https://pypistats.org/packages/project-config
-[project-config-state-badge]: https://img.shields.io/github/workflow/status/mondeja/project-config/CI?logo=github&label=tests&style=flat-square
+[project-config-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/project-config/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [project-config-state-link]: https://github.com/mondeja/project-config/actions?query=workflow%3ACI
 
 [mkdocs-include-markdown-plugin-github]: https://github.com/mondeja/mkdocs-include-markdown-plugin
@@ -90,7 +90,7 @@ I help maintaining the following open source projects, among others[^1]:
 [mkdocs-include-markdown-plugin-last-commit-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/commits
 [mkdocs-include-markdown-plugin-pypi-downloads-badge]: https://img.shields.io/pypi/dm/mkdocs-include-markdown-plugin?style=flat-square
 [mkdocs-include-markdown-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-include-markdown-plugin
-[mkdocs-include-markdown-plugin-state-badge]: https://img.shields.io/github/workflow/status/mondeja/mkdocs-include-markdown-plugin/CI?logo=github&label=tests&style=flat-square
+[mkdocs-include-markdown-plugin-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/mkdocs-include-markdown-plugin/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [mkdocs-include-markdown-plugin-state-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/actions?query=workflow%3ACI
 
 [pre-commit-po-hooks-github]: https://github.com/mondeja/pre-commit-po-hooks
@@ -100,7 +100,7 @@ I help maintaining the following open source projects, among others[^1]:
 [pre-commit-po-hooks-last-commit-link]: https://github.com/mondeja/pre-commit-po-hooks/commits
 [pre-commit-po-hooks-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pre-commit-po-hooks?style=flat-square
 [pre-commit-po-hooks-pypi-downloads-link]: https://pypistats.org/packages/pre-commit-po-hooks
-[pre-commit-po-hooks-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pre-commit-po-hooks/CI?logo=github&label=tests&style=flat-square
+[pre-commit-po-hooks-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/pre-commit-po-hooks/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [pre-commit-po-hooks-state-link]: https://github.com/mondeja/pre-commit-po-hooks/actions?query=workflow%CI
 
 [blender-downloader-github]: https://github.com/mondeja/blender-downloader
@@ -110,7 +110,7 @@ I help maintaining the following open source projects, among others[^1]:
 [blender-downloader-last-commit-link]: https://github.com/mondeja/blender-downloader/commits
 [blender-downloader-pypi-downloads-badge]: https://img.shields.io/pypi/dm/blender-downloader?style=flat-square
 [blender-downloader-pypi-downloads-link]: https://pypistats.org/packages/blender-downloader-plugin
-[blender-downloader-state-badge]: https://img.shields.io/github/workflow/status/mondeja/blender-downloader/CI?logo=github&label=tests&style=flat-square
+[blender-downloader-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/blender-downloader/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [blender-downloader-state-link]: https://github.com/mondeja/blender-downloader/actions?query=workflow%CI
 
 [simple-icons-blender-github]: https://github.com/mondeja/simple-icons-blender
@@ -118,7 +118,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-blender-pypi-link]: https://github.com/mondeja/simple-icons-blender/releases
 [simple-icons-blender-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-blender?style=flat-square
 [simple-icons-blender-last-commit-link]: https://github.com/mondeja/simple-icons-blender/commits
-[simple-icons-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/simple-icons-blender/Release?label=release&logo=github
+[simple-icons-blender-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-blender/publish.yml?branch=develop&label=release&logo=github
 [simple-icons-blender-state-link]: https://github.com/mondeja/simple-icons-blender/actions?query=workflow%3ARelease
 
 [pytest-blender-github]: https://github.com/mondeja/pytest-blender
@@ -128,7 +128,7 @@ I help maintaining the following open source projects, among others[^1]:
 [pytest-blender-last-commit-link]: https://github.com/mondeja/pytest-blender/commits
 [pytest-blender-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pytest-blender?style=flat-square
 [pytest-blender-pypi-downloads-link]: https://pypistats.org/packages/pytest-blender
-[pytest-blender-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pytest-blender/CI?logo=github&label=tests&style=flat-square
+[pytest-blender-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/pytest-blender/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [pytest-blender-state-link]: https://github.com/mondeja/pytest-blender/actions?query=workflow%3ACI
 
 [inkscape-braille-l18n-ext-github]: https://github.com/mondeja/inkscape-braille-l18n-ext
@@ -136,7 +136,7 @@ I help maintaining the following open source projects, among others[^1]:
 [inkscape-braille-l18n-ext-releases-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
 [inkscape-braille-l18n-ext-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/inkscape-braille-l18n-ext?style=flat-square
 [inkscape-braille-l18n-ext-last-commit-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/commits
-[inkscape-braille-l18n-ext-state-badge]: https://img.shields.io/github/workflow/status/mondeja/inkscape-braille-l18n-ext/CI?logo=github&label=tests&style=flat-square
+[inkscape-braille-l18n-ext-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/inkscape-braille-l18n-ext/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [inkscape-braille-l18n-ext-state-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/actions?query=workflow%3ACI
 
 <!-- End: Python projects links -->
@@ -149,7 +149,7 @@ I help maintaining the following open source projects, among others[^1]:
 [svg-path-bbox-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-bbox?style=flat-square
 [svg-path-bbox-last-commit-link]: https://github.com/mondeja/svg-path-bbox/commits
 [svg-path-bbox-npm-downloads-badge]: https://img.shields.io/npm/dm/svg-path-bbox?style=flat-square
-[svg-path-bbox-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-bbox/CI?logo=github&label=tests&style=flat-square
+[svg-path-bbox-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/svg-path-bbox/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [svg-path-bbox-state-link]: https://github.com/mondeja/svg-path-bbox/actions?query=workflow%3ACI
 
 [svg-path-segments-github]: https://github.com/mondeja/svg-path-segments
@@ -158,7 +158,7 @@ I help maintaining the following open source projects, among others[^1]:
 [svg-path-segments-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-segments?style=flat-square
 [svg-path-segments-last-commit-link]: https://github.com/mondeja/svg-path-segments/commits
 [svg-path-segments-npm-downloads-badge]: https://img.shields.io/npm/dm/svg-path-segments?style=flat-square
-[svg-path-segments-state-badge]: https://img.shields.io/github/workflow/status/mondeja/svg-path-segments/CI?logo=github&label=tests&style=flat-square
+[svg-path-segments-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/svg-path-segments/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [svg-path-segments-state-link]: https://github.com/mondeja/svg-path-segments/actions?query=workflow%3ACI
 
 [simple-icons-github]: https://github.com/simple-icons/simple-icons
@@ -167,7 +167,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons?style=flat-square
 [simple-icons-last-commit-link]: https://github.com/simple-icons/simple-icons/commits
 [simple-icons-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons?style=flat-square
-[simple-icons-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github&label=tests&style=flat-square
+[simple-icons-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons/verify.yml?branch=develop&logo=github&label=tests&style=flat-square
 [simple-icons-state-link]: https://github.com/simple-icons/simple-icons/actions?query=workflow%3ATest
 
 [simple-icons-font-github]: https://github.com/simple-icons/simple-icons-font
@@ -176,7 +176,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-font-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons-font?style=flat-square
 [simple-icons-font-last-commit-link]: https://github.com/simple-icons/simple-icons-font/commits
 [simple-icons-font-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons-font?style=flat-square
-[simple-icons-font-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons-font/Verify/develop?logo=github&label=tests&style=flat-square
+[simple-icons-font-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons-font/verify.yml?branch=develop&logo=github&label=tests&style=flat-square
 [simple-icons-font-state-link]: https://github.com/simple-icons/simple-icons-font/actions?query=workflow%3AVerify
 
 [simple-icons-website-github]: https://github.com/simple-icons/simple-icons-website
@@ -184,7 +184,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-website-link]: https://simpleicons.org
 [simple-icons-website-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons-website?style=flat-square
 [simple-icons-website-last-commit-link]: https://github.com/simple-icons/simple-icons-website/commits
-[simple-icons-website-state-badge]: https://img.shields.io/github/workflow/status/simple-icons/simple-icons-website/Verify/master?logo=github&label=tests&style=flat-square
+[simple-icons-website-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons-website/verify.yml?branch=master&logo=github&label=tests&style=flat-square
 [simple-icons-website-state-link]: https://github.com/simple-icons/simple-icons-website/actions?query=workflow%3AVerify
 
 [simple-icons-drawio-github]: https://github.com/mondeja/simple-icons-drawio#readme
@@ -192,7 +192,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-drawio-link]: https://github.com/mondeja/simple-icons-drawio
 [simple-icons-drawio-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-drawio?style=flat-square
 [simple-icons-drawio-last-commit-link]: https://github.com/mondeja/simple-icons-drawio/commits
-[simple-icons-drawio-state-badge]: https://img.shields.io/github/workflow/status/mondeja/simple-icons-drawio/Release?label=release&logo=github
+[simple-icons-drawio-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-drawio/publish.yml?branch=develop&label=release&logo=github
 [simple-icons-drawio-state-link]: https://github.com/mondeja/simple-icons-drawio/actions?query=workflow%3ARelease
 
 [woff2otf-github]: https://github.com/mondeja/woff2otf
@@ -201,7 +201,7 @@ I help maintaining the following open source projects, among others[^1]:
 [woff2otf-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/woff2otf?style=flat-square
 [woff2otf-last-commit-link]: https://github.com/mondeja/woff2otf/commits
 [woff2otf-npm-downloads-badge]: https://img.shields.io/npm/dm/woff2otf?style=flat-square
-[woff2otf-state-badge]: https://img.shields.io/github/workflow/status/mondeja/woff2otf/CI?logo=github&label=tests&style=flat-square
+[woff2otf-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/woff2otf/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [woff2otf-state-link]: https://github.com/mondeja/woff2otf/actions?query=workflow%3ACI
 
 <!-- End: Javascript projects links -->
@@ -209,11 +209,11 @@ I help maintaining the following open source projects, among others[^1]:
 <!-- Starter templates links -->
 
 [actix-react-starter-template-github]: https://github.com/mondeja/actix-react-starter-template
-[actix-react-starter-template-state-badge]: https://img.shields.io/github/workflow/status/mondeja/actix-react-starter-template/Tests?label=tests&logo=github&style=flat-square
+[actix-react-starter-template-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/actix-react-starter-template/test.yml?branch=master&label=tests&logo=github&style=flat-square
 [actix-react-starter-template-state-link]: https://github.com/mondeja/actix-react-starter-template/actions/workflows/test.yml
 
 [django-svelte-start-github]: https://github.com/mondeja/django-svelte-start
-[django-svelte-start-state-badge]: https://img.shields.io/github/workflow/status/mondeja/django-svelte-start/pre-commit?label=check&logo=github&style=flat-square
+[django-svelte-start-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/django-svelte-start/pre-commit.yml?branch=master&label=check&logo=github&style=flat-square
 [django-svelte-start-state-link]: https://github.com/mondeja/django-svelte-start/actions/workflows/pre-commit.yml
 
 <!-- End: Starter templates links -->
@@ -225,7 +225,7 @@ I help maintaining the following open source projects, among others[^1]:
 [solaris-vm-action-release-link]: https://github.com/mondeja/solaris-vm-action/releases/latest
 [solaris-vm-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/solaris-vm-action?style=flat-square
 [solaris-vm-action-last-commit-link]: https://github.com/mondeja/solaris-vm-action/commits
-[solaris-vm-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/solaris-vm-action/CI/v1?label=tests&logo=github&style=flat-square
+[solaris-vm-action-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/solaris-vm-action/ci.yml?branch=v1&label=tests&logo=github&style=flat-square
 [solaris-vm-action-state-link]: https://github.com/mondeja/solaris-vm-action/actions/workflows/ci.yml
 
 [remove-labels-gh-action-github]: https://github.com/mondeja/remove-labels-gh-action
@@ -233,7 +233,7 @@ I help maintaining the following open source projects, among others[^1]:
 [remove-labels-gh-action-release-link]: https://github.com/mondeja/remove-labels-gh-action/releases/latest
 [remove-labels-gh-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/remove-labels-gh-action?style=flat-square
 [remove-labels-gh-action-last-commit-link]: https://github.com/mondeja/remove-labels-gh-action/commits
-[remove-labels-gh-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/remove-labels-gh-action/CI?logo=github&label=tests&style=flat-square
+[remove-labels-gh-action-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/remove-labels-gh-action/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [remove-labels-gh-action-state-link]: https://github.com/mondeja/remove-labels-gh-action/actions?query=workflow%3ACI
 
 [pr-linked-issues-action-github]: https://github.com/mondeja/pr-linked-issues-action
@@ -241,7 +241,7 @@ I help maintaining the following open source projects, among others[^1]:
 [pr-linked-issues-action-release-link]: https://github.com/mondeja/pr-linked-issues-action/releases/latest
 [pr-linked-issues-action-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pr-linked-issues-action?style=flat-square
 [pr-linked-issues-action-last-commit-link]: https://github.com/mondeja/pr-linked-issues-action/commits
-[pr-linked-issues-action-state-badge]: https://img.shields.io/github/workflow/status/mondeja/pr-linked-issues-action/CI?logo=github&label=tests&style=flat-square
+[pr-linked-issues-action-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/pr-linked-issues-action/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [pr-linked-issues-action-state-link]: https://github.com/mondeja/pr-linked-issues-action/actions?query=workflow%3ACI
 
 [strip-gh-theme-links-github]: https://github.com/mondeja/strip-gh-theme-links
@@ -249,7 +249,7 @@ I help maintaining the following open source projects, among others[^1]:
 [strip-gh-theme-links-release-link]: https://github.com/mondeja/strip-gh-theme-links/releases/latest
 [strip-gh-theme-links-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/strip-gh-theme-links?style=flat-square
 [strip-gh-theme-links-last-commit-link]: https://github.com/mondeja/strip-gh-theme-links/commits
-[strip-gh-theme-links-state-badge]: https://img.shields.io/github/workflow/status/mondeja/strip-gh-theme-links/CI?logo=github&label=tests&style=flat-square
+[strip-gh-theme-links-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/strip-gh-theme-links/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [strip-gh-theme-links-state-link]: https://github.com/mondeja/strip-gh-theme-links/actions?query=workflow%3ACI
 
 <!-- End: Github Actions links -->
