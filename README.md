@@ -192,7 +192,7 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-drawio-link]: https://github.com/mondeja/simple-icons-drawio
 [simple-icons-drawio-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-drawio?style=flat-square
 [simple-icons-drawio-last-commit-link]: https://github.com/mondeja/simple-icons-drawio/commits
-[simple-icons-drawio-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-drawio/publish.yml?branch=develop&label=release&logo=github
+[simple-icons-drawio-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-drawio/publish.yml?branch=develop&event=push&label=release&logo=github
 [simple-icons-drawio-state-link]: https://github.com/mondeja/simple-icons-drawio/actions?query=workflow%3ARelease
 
 [woff2otf-github]: https://github.com/mondeja/woff2otf
