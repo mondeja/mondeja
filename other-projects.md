@@ -1,4 +1,4 @@
-Other projects for which I've contributed but currently are a bit abandoned, but I'm still supporting them:
+Other projects for which I've contributed but currently are a bit abandoned, altough I'm still supporting them:
 
 ## Python
 
