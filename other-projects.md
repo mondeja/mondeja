@@ -10,7 +10,6 @@ Other projects for which I've contributed but currently are a bit abandoned, alt
 | [pgdoc-datatype-parser][pgdoc-datatype-parser-github] | [![PyPI][pgdoc-datatype-parser-pypi-badge]][pgdoc-datatype-parser-pypi-link] | [![GitHub last commit][pgdoc-datatype-parser-last-commit-badge]][pgdoc-datatype-parser-last-commit-link] | [![PyPI - Downloads][pgdoc-datatype-parser-pypi-downloads-badge]][pgdoc-datatype-parser-pypi-downloads-link] | [![Tests][pgdoc-datatype-parser-state-badge]][pgdoc-datatype-parser-state-link] |
 | [potojson][potojson-github] | [![PyPI][potojson-pypi-badge]][potojson-pypi-link] | [![GitHub last commit][potojson-last-commit-badge]][potojson-last-commit-link] | [![PyPI - Downloads][potojson-pypi-downloads-badge]][potojson-pypi-downloads-link] | [![Tests][potojson-state-badge]][potojson-state-link] |
 | [hunspellcheck][hunspellcheck-github] | [![PyPI][hunspellcheck-pypi-badge]][hunspellcheck-pypi-link] | [![GitHub last commit][hunspellcheck-last-commit-badge]][hunspellcheck-last-commit-link] | [![PyPI - Downloads][hunspellcheck-pypi-downloads-badge]][hunspellcheck-pypi-downloads-link] | [![Tests][hunspellcheck-state-badge]][hunspellcheck-state-link] |
-| [moviepy][moviepy-github] | [![PyPI][moviepy-pypi-badge]][moviepy-pypi-link] | [![GitHub last commit][moviepy-last-commit-badge]][moviepy-last-commit-link] | [![PyPI - Downloads][moviepy-pypi-downloads-badge]][moviepy-pypi-downloads-link] | [![Tests][moviepy-state-badge]][moviepy-state-link] |
 
 <!-- Python projects links -->
 
@@ -73,15 +72,5 @@ Other projects for which I've contributed but currently are a bit abandoned, alt
 [hunspellcheck-pypi-downloads-link]: https://pypistats.org/packages/hunspellcheck
 [hunspellcheck-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/hunspellcheck/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [hunspellcheck-state-link]: https://github.com/mondeja/hunspellcheck/actions?query=workflow%3ACI
-
-[moviepy-github]: https://github.com/Zulko/moviepy
-[moviepy-pypi-badge]: https://img.shields.io/pypi/v/moviepy?style=flat-square&logo=python&logoColor=white
-[moviepy-pypi-link]: https://pypi.org/project/moviepy
-[moviepy-last-commit-badge]: https://img.shields.io/github/last-commit/Zulko/moviepy?style=flat-square
-[moviepy-last-commit-link]: https://github.com/Zulko/moviepy/commits
-[moviepy-pypi-downloads-badge]: https://img.shields.io/pypi/dm/moviepy?style=flat-square
-[moviepy-pypi-downloads-link]: https://pypistats.org/packages/moviepy
-[moviepy-state-badge]: https://img.shields.io/github/actions/workflow/status/Zulko/moviepy/test_suite.yml?branch=master&logo=github&label=tests&style=flat-square
-[moviepy-state-link]: https://github.com/Zulko/moviepy/actions?query=workflow%3A%22Run+Test+Suite%22
 
 <!-- End: Python projects links -->
