@@ -147,10 +147,10 @@ I help maintaining the following open source projects, among others[^1]:
 [importlib-metadata-argparse-version-releases-link]: https://github.com/mondeja/importlib-metadata-argparse-version/releases
 [importlib-metadata-argparse-version-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/importlib-metadata-argparse-version?style=flat-square
 [importlib-metadata-argparse-version-last-commit-link]: https://github.com/mondeja/importlib-metadata-argparse-version/commits
-[importlib-metadata-argparse-version-downloads-badge]: https://img.shields.io/github/downloads/mondeja/importlib-metadata-argparse-version/total
-[importlib-metadata-argparse-version-downloads-link]: https://github.com/mondeja/importlib-metadata-argparse-version/releases
+[importlib-metadata-argparse-version-downloads-badge]: https://img.shields.io/pypi/dm/importlib-metadata-argparse-version?style=flat-square
+[importlib-metadata-argparse-version-downloads-link]: https://pypistats.org/packages/importlib-metadata-argparse-version
 [importlib-metadata-argparse-version-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/importlib-metadata-argparse-version/ci.yml?branch=master&logo=github&label=tests&style=flat-square
-[importlib-metadata-argparse-version-state-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/actions?query=workflow%3ACI
+[importlib-metadata-argparse-version-state-link]: https://github.com/mondeja/importlib-metadata-argparse-version/actions?query=workflow%3ACI
 
 <!-- End: Python projects links -->
 
