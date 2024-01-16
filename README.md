@@ -4,6 +4,15 @@
 
 I help maintaining the following open source projects, among others[^1]:
 
+## Rust
+
+| Name | Release | Activity | State |
+| --- | --- | ----  | --- |
+| [wasm.simpleicons.org][simple-icons-website-rs-website] | [![Github releases][simple-icons-website-rs-github-badge]][simple-icons-website-rs-github] | [![GitHub last commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
+| [svg-path-cst][svg-path-cst-docs-link] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-github] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
+| [md-ulb-pwrap][md-ulb-pwrap-docs-link] | [![Github releases][md-ulb-pwrap-github-badge]][md-ulb-pwrap-github] | [![GitHub last commit][md-ulb-pwrap-last-commit-badge]][md-ulb-pwrap-last-commit-link] | [![Tests][md-ulb-pwrap-state-badge]][md-ulb-pwrap-state-link] |
+| [rspolib][rspolib-docs-link] | [![Github releases][rspolib-github-badge]][rspolib-github] | [![GitHub last commit][rspolib-last-commit-badge]][rspolib-last-commit-link] | [![Tests][rspolib-state-badge]][rspolib-state-link] |
+
 ## Python
 
 | Name | Release | Activity | Popularity | State |
@@ -59,6 +68,44 @@ I help maintaining the following open source projects, among others[^1]:
 [gitlab-link]: https://gitlab.com/mondeja
 
 <!-- End: Introduction links -->
+
+
+<!-- Rust projects links -->
+
+[simple-icons-website-rs-github]: https://github.com/mondeja/simple-icons-website-rs
+[simple-icons-website-rs-website]: https://wasm.simpleicons.org
+[simple-icons-website-rs-github-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmondeja%2Fsimple-icons-website-rs%2Fmaster%2Fpackage.json&query=$..[%27devDependencies%27][%27simple-icons%27]&logo=simpleicons&label=version
+[simple-icons-website-rs-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-website-rs?style=flat-square&logo=github
+[simple-icons-website-rs-last-commit-link]: https://github.com/mondeja/simple-icons-website-rs/commits 
+[simple-icons-website-rs-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-website-rs/verify.yml?branch=master&logo=github&label=tests&style=flat-square
+[simple-icons-website-rs-state-link]: https://github.com/mondeja/simple-icons-website-rs/actions?query=workflow%3AVerify
+
+[svg-path-cst-docs-link]: https://docs.rs/svg-path-cst
+[svg-path-cst-github-badge]: https://img.shields.io/crates/v/svg-path-cst?style=flat-square&logo=rust
+[svg-path-cst-github]: https://github.com/mondeja/svg-path-cst
+[svg-path-cst-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-cst?style=flat-square
+[svg-path-cst-last-commit-link]: https://github.com/mondeja/svg-path-cst/commits
+[svg-path-cst-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/svg-path-cst/ci.yml?branch=master&logo=github&label=tests&style=flat-square
+[svg-path-cst-state-link]: https://github.com/mondeja/svg-path-cst/actions?query=workflow%3ACI
+
+[md-ulb-pwrap-docs-link]: https://docs.rs/md-ulb-pwrap
+[md-ulb-pwrap-github-badge]: https://img.shields.io/crates/v/md-ulb-pwrap?style=flat-square&logo=rust
+[md-ulb-pwrap-github]: https://github.com/mondeja/md-ulb-pwrap
+[md-ulb-pwrap-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/md-ulb-pwrap?style=flat-square
+[md-ulb-pwrap-last-commit-link]: https://github.com/mondeja/md-ulb-pwrap/commits
+[md-ulb-pwrap-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/md-ulb-pwrap/ci.yml?branch=master&logo=github&label=tests&style=flat-square
+[md-ulb-pwrap-state-link]: https://github.com/mondeja/md-ulb-pwrap/actions?query=workflow%3ACI
+
+[rspolib-docs-link]: https://docs.rs/rspolib
+[rspolib-github-badge]: https://img.shields.io/crates/v/rspolib?style=flat-square&logo=rust
+[rspolib-github]: https://github.com/mondeja/rspolib
+[rspolib-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/rspolib?style=flat-square
+[rspolib-last-commit-link]: https://github.com/mondeja/rspolib/commits
+[rspolib-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/rspolib/ci.yml?branch=master&logo=github&label=tests&style=flat-square
+[rspolib-state-link]: https://github.com/mondeja/rspolib/actions?query=workflow%3ACI
+
+<!-- End: Rust projects links -->
+
 
 <!-- Python projects links -->
    
