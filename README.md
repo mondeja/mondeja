@@ -36,7 +36,7 @@ I help maintaining the following open source projects, among others[^1]:
 | [simple-icons][simple-icons-github] | [![NPM][simple-icons-npm-badge]][simple-icons-npm-link] | [![GitHub last commit][simple-icons-last-commit-badge]][simple-icons-last-commit-link] | [![NPM - Downloads][simple-icons-npm-downloads-badge]][simple-icons-npm-link] | [![Tests][simple-icons-state-badge]][simple-icons-state-link] |
 | [simple-icons-font][simple-icons-font-github] | [![NPM][simple-icons-font-npm-badge]][simple-icons-font-npm-link] | [![GitHub last commit][simple-icons-font-last-commit-badge]][simple-icons-font-last-commit-link] | [![NPM - Downloads][simple-icons-font-npm-downloads-badge]][simple-icons-font-npm-link] | [![Tests][simple-icons-font-state-badge]][simple-icons-font-state-link] |
 | [simple-icons-website][simple-icons-website-github] | [![NPM][simple-icons-website-badge]][simple-icons-website-link] | [![GitHub last commit][simple-icons-website-last-commit-badge]][simple-icons-website-last-commit-link] |  | [![Tests][simple-icons-website-state-badge]][simple-icons-website-state-link] |
-| [simple-icons-drawio][simple-icons-drawio-github] | [![NPM][simple-icons-drawio-badge]][simple-icons-drawio-link] | [![GitHub last commit][simple-icons-drawio-last-commit-badge]][simple-icons-drawio-last-commit-link] |  | [![Tests][simple-icons-drawio-state-badge]][simple-icons-drawio-state-link] |
+| [simple-icons-drawio][simple-icons-drawio-github] | [![NPM][simple-icons-drawio-badge]][simple-icons-drawio-link] | [![GitHub last commit][simple-icons-drawio-last-commit-badge]][simple-icons-drawio-last-commit-link] | [![Github downloads][simple-icons-drawio-gh-downloads-badge]][simple-icons-drawio-gh-downloads-link] | [![Tests][simple-icons-drawio-state-badge]][simple-icons-drawio-state-link] |
 | [woff2otf][woff2otf-github] | [![NPM][woff2otf-npm-badge]][woff2otf-npm-link] | [![GitHub last commit][woff2otf-last-commit-badge]][woff2otf-last-commit-link] | [![NPM - Downloads][woff2otf-npm-downloads-badge]][woff2otf-npm-link] | [![Tests][woff2otf-state-badge]][woff2otf-state-link] |
 
 ## Starter templates
@@ -252,6 +252,8 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-drawio-link]: https://github.com/mondeja/simple-icons-drawio
 [simple-icons-drawio-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-drawio?style=flat-square
 [simple-icons-drawio-last-commit-link]: https://github.com/mondeja/simple-icons-drawio/commits
+[simple-icons-drawio-gh-downloads-badge]: https://img.shields.io/github/downloads/mondeja/simple-icons-drawio/total?label=downloads&style=flat-square
+[simple-icons-drawio-gh-downloads-link]: https://github.com/mondeja/simple-icons-drawio/releases
 [simple-icons-drawio-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-drawio/publish.yml?branch=develop&label=release&logo=github
 [simple-icons-drawio-state-link]: https://github.com/mondeja/simple-icons-drawio/actions?query=workflow%3ARelease
 
