@@ -9,6 +9,7 @@ I help maintaining the following open source projects, among others[^1]:
 | Name | Release | Activity | State |
 | --- | --- | ----  | --- |
 | [wasm.simpleicons.org][simple-icons-website-rs-website] | [![Github releases][simple-icons-website-rs-github-badge]][simple-icons-website-rs-github] | [![GitHub last commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
+| [leptos-fluent][leptos-fluent-docs-link] | [![Github releases][leptos-fluent-github-badge]][leptos-fluent-github] | [![GitHub last commit][leptos-fluent-last-commit-badge]][leptos-fluent-last-commit-link] | [![Tests][leptos-fluent-state-badge]][leptos-fluent-state-link] |
 | [svg-path-cst][svg-path-cst-docs-link] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-github] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
 | [md-ulb-pwrap][md-ulb-pwrap-docs-link] | [![Github releases][md-ulb-pwrap-github-badge]][md-ulb-pwrap-github] | [![GitHub last commit][md-ulb-pwrap-last-commit-badge]][md-ulb-pwrap-last-commit-link] | [![Tests][md-ulb-pwrap-state-badge]][md-ulb-pwrap-state-link] |
 | [rspolib][rspolib-docs-link] | [![Github releases][rspolib-github-badge]][rspolib-github] | [![GitHub last commit][rspolib-last-commit-badge]][rspolib-last-commit-link] | [![Tests][rspolib-state-badge]][rspolib-state-link] |
@@ -79,6 +80,14 @@ I help maintaining the following open source projects, among others[^1]:
 [simple-icons-website-rs-last-commit-link]: https://github.com/mondeja/simple-icons-website-rs/commits 
 [simple-icons-website-rs-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-website-rs/verify.yml?branch=master&logo=github&label=tests&style=flat-square
 [simple-icons-website-rs-state-link]: https://github.com/mondeja/simple-icons-website-rs/actions?query=workflow%3AVerify
+
+[leptos-fluent-docs-link]: https://docs.rs/leptos-fluent
+[leptos-fluent-github-badge]: https://img.shields.io/crates/v/leptos-fluent?style=flat-square&logo=rust
+[leptos-fluent-github]: https://github.com/mondeja/leptos-fluent
+[leptos-fluent-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/leptos-fluent?style=flat-square
+[leptos-fluent-last-commit-link]: https://github.com/mondeja/leptos-fluent/commits
+[leptos-fluent-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/leptos-fluent/ci.yml?branch=master&logo=github&label=tests&style=flat-square
+[leptos-fluent-state-link]: https://github.com/mondeja/leptos-fluent/actions?query=workflow%3ACI
 
 [svg-path-cst-docs-link]: https://docs.rs/svg-path-cst
 [svg-path-cst-github-badge]: https://img.shields.io/crates/v/svg-path-cst?style=flat-square&logo=rust
