@@ -1,8 +1,10 @@
-# Hi, I'm mondeja
+## Hi, I'm mondeja
 
-[![Email][email-badge]][email-link] [![Gitlab][gitlab-badge]][gitlab-link]
+[![Email][email-badge]][email-link] [![Gitlab][gitlab-badge]][gitlab-link] [![Discord][discord-badge]][discord-link]
 
-I help maintaining the following open source projects, among others[^1]:
+I'm an autodidact Spanish senior fullstack engineer expecially interesed in performance, text parsing, vectoring, internationalization and DevOps. Fluent in TS/JS, Python, Rust, Shell and PgPsql. Beyond software development I love EDM music, plyometrics, the limits of humor, symbolic Anthropology and writing about the contradictions of the modernization of societies.
+
+In my free time I maintain or co-maintain the following open source projects:
 
 ## Rust
 
@@ -56,8 +58,6 @@ I help maintaining the following open source projects, among others[^1]:
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Shell][shell] |
 | [strip-gh-theme-links][strip-gh-theme-links-github] | [![Github release][strip-gh-theme-links-release-badge]][strip-gh-theme-links-release-link] | [![GitHub last commit][strip-gh-theme-links-last-commit-badge]][strip-gh-theme-links-last-commit-link] | [![Tests][strip-gh-theme-links-state-badge]][strip-gh-theme-links-state-link] | ![Javascript][javascript] |
 
-[^1]: [Other projects I maintain](https://github.com/mondeja/mondeja/blob/master/other-projects.md)
-
 <!-- LINKS -->
 
 <!-- Introduction links -->
@@ -65,8 +65,11 @@ I help maintaining the following open source projects, among others[^1]:
 [email-badge]: https://img.shields.io/badge/-mondejar1994@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mondejar1994@gmail.com
 [email-link]: mailto:mondejar1994@gmail.com
 
-[gitlab-badge]: https://img.shields.io/badge/-mondeja-292961?style=flat-square&logo=gitlab&logoColor=white
+[gitlab-badge]: https://img.shields.io/badge/-GitLab-292961?style=flat-square&logo=gitlab&logoColor=white
 [gitlab-link]: https://gitlab.com/mondeja
+
+[discord-badge]: https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white
+[discord-link]: https://discord.com/users/mondeja.
 
 <!-- End: Introduction links -->
 
