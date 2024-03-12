@@ -1,6 +1,6 @@
 [![Email][email-badge]][email-link] [![Gitlab][gitlab-badge]][gitlab-link] [![Discord][discord-badge]][discord-link]
 
-I'm an autodidact Spanish senior fullstack engineer expecially interesed in performance, text parsing, vectoring, internationalization and DevOps. Fluent in TS/JS, Python, Rust, Shell and PgPsql. Beyond software development I love EDM music, plyometrics, the limits of humor and Anthropology.
+I'm an autodidact Spanish senior fullstack software engineer expecially interesed in performance, text parsing, topology, internationalization, DevOps and documentation. Fluent in TS/JS, Python, Rust, Shell and PgPsql. Beyond software development I love EDM music, plyometrics, the limits of humor and Anthropology.
 
 In my free time I maintain or co-maintain the following open source projects:
 
