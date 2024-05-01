@@ -9,10 +9,10 @@ In my free time I maintain or co-maintain the following open source projects:
 | Name | Release | Activity | State |
 | --- | --- | ----  | --- |
 | [wasm.simpleicons.org][simple-icons-website-rs-website] | [![Github releases][simple-icons-website-rs-github-badge]][simple-icons-website-rs-github] | [![GitHub last commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
-| [leptos-fluent][leptos-fluent-docs-link] | [![Github releases][leptos-fluent-github-badge]][leptos-fluent-github] | [![GitHub last commit][leptos-fluent-last-commit-badge]][leptos-fluent-last-commit-link] | [![Tests][leptos-fluent-state-badge]][leptos-fluent-state-link] |
-| [svg-path-cst][svg-path-cst-docs-link] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-github] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
-| [md-ulb-pwrap][md-ulb-pwrap-docs-link] | [![Github releases][md-ulb-pwrap-github-badge]][md-ulb-pwrap-github] | [![GitHub last commit][md-ulb-pwrap-last-commit-badge]][md-ulb-pwrap-last-commit-link] | [![Tests][md-ulb-pwrap-state-badge]][md-ulb-pwrap-state-link] |
-| [rspolib][rspolib-docs-link] | [![Github releases][rspolib-github-badge]][rspolib-github] | [![GitHub last commit][rspolib-last-commit-badge]][rspolib-last-commit-link] | [![Tests][rspolib-state-badge]][rspolib-state-link] |
+| [leptos-fluent][leptos-fluent-github] | [![Github releases][leptos-fluent-github-badge]][leptos-fluent-docs-link] | [![GitHub last commit][leptos-fluent-last-commit-badge]][leptos-fluent-last-commit-link] | [![Tests][leptos-fluent-state-badge]][leptos-fluent-state-link] |
+| [svg-path-cst][svg-path-cst-github] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-docs-link] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
+| [md-ulb-pwrap][md-ulb-pwrap-github] | [![Github releases][md-ulb-pwrap-github-badge]][md-ulb-pwrap-docs-link] | [![GitHub last commit][md-ulb-pwrap-last-commit-badge]][md-ulb-pwrap-last-commit-link] | [![Tests][md-ulb-pwrap-state-badge]][md-ulb-pwrap-state-link] |
+| [rspolib][rspolib-github] | [![Github releases][rspolib-github-badge]][rspolib-docs-link] | [![GitHub last commit][rspolib-last-commit-badge]][rspolib-last-commit-link] | [![Tests][rspolib-state-badge]][rspolib-state-link] |
 
 ## Python
 
