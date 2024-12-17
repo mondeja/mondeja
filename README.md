@@ -1,8 +1,6 @@
 [![Email][email-badge]][email-link] [![Gitlab][gitlab-badge]][gitlab-link] [![Discord][discord-badge]][discord-link]
 
-I'm an autodidact Spanish senior software engineer expecially interested in performance, text parsing, topology, internationalization, DevOps and documentation. Fluent in TS/JS, Python, Rust, Shell and PgPsql. Beyond software development I love EDM music, plyometrics, the limits of humor and Anthropology.
-
-In my free time I maintain or co-maintain the following open source projects:
+I'm an autodidact Spanish senior software engineer expecially interested in performance, text parsing, topology, internationalization, DevOps and documentation. Fluent in TS/JS, Python, Rust, Shell and PgPsql.
 
 ## Rust
 
