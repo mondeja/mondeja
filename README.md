@@ -24,7 +24,6 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 | [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] | [![Tests][pre-commit-po-hooks-state-badge]][pre-commit-po-hooks-state-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
 | [simple-icons-blender][simple-icons-blender-github] | [![PyPI][simple-icons-blender-pypi-badge]][simple-icons-blender-pypi-link] | [![GitHub last commit][simple-icons-blender-last-commit-badge]][simple-icons-blender-last-commit-link] | | [![Tests][simple-icons-blender-state-badge]][simple-icons-blender-state-link] |
-| [braille-l18n (Inkscape extension)][inkscape-braille-l18n-ext-github] | [![Releases][inkscape-braille-l18n-ext-releases-badge]][inkscape-braille-l18n-ext-releases-link] | [![GitHub last commit][inkscape-braille-l18n-ext-last-commit-badge]][inkscape-braille-l18n-ext-last-commit-link] | [![inkscape-braille-l18n-ext-downloads-badge]][inkscape-braille-l18n-ext-downloads-link] | [![Tests][inkscape-braille-l18n-ext-state-badge]][inkscape-braille-l18n-ext-state-link] |
 | [importlib-metadata-argparse-version][importlib-metadata-argparse-version-github] | [![Releases][importlib-metadata-argparse-version-releases-badge]][importlib-metadata-argparse-version-releases-link] | [![GitHub last commit][importlib-metadata-argparse-version-last-commit-badge]][importlib-metadata-argparse-version-last-commit-link] | [![importlib-metadata-argparse-version-downloads-badge]][importlib-metadata-argparse-version-downloads-link] | [![Tests][importlib-metadata-argparse-version-state-badge]][importlib-metadata-argparse-version-state-link] |
 
 ## Javascript
@@ -195,16 +194,6 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [pytest-blender-pypi-downloads-link]: https://pypistats.org/packages/pytest-blender
 [pytest-blender-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/pytest-blender/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [pytest-blender-state-link]: https://github.com/mondeja/pytest-blender/actions?query=workflow%3ACI
-
-[inkscape-braille-l18n-ext-github]: https://github.com/mondeja/inkscape-braille-l18n-ext
-[inkscape-braille-l18n-ext-releases-badge]: https://img.shields.io/github/v/release/mondeja/inkscape-braille-l18n-ext?style=flat-square&logo=github&logoColor=white&label=github
-[inkscape-braille-l18n-ext-releases-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
-[inkscape-braille-l18n-ext-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/inkscape-braille-l18n-ext?style=flat-square
-[inkscape-braille-l18n-ext-last-commit-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/commits
-[inkscape-braille-l18n-ext-downloads-badge]: https://img.shields.io/github/downloads/mondeja/inkscape-braille-l18n-ext/total
-[inkscape-braille-l18n-ext-downloads-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
-[inkscape-braille-l18n-ext-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/inkscape-braille-l18n-ext/ci.yml?branch=master&logo=github&label=tests&style=flat-square
-[inkscape-braille-l18n-ext-state-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/actions?query=workflow%3ACI
 
 [importlib-metadata-argparse-version-github]: https://github.com/mondeja/importlib-metadata-argparse-version
 [importlib-metadata-argparse-version-releases-badge]: https://img.shields.io/github/v/release/mondeja/importlib-metadata-argparse-version?style=flat-square&logo=github&logoColor=white&label=github
