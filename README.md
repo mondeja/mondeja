@@ -7,10 +7,11 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 | Name | Release | Activity | State |
 | --- | --- | ----  | --- |
 | [wasm.simpleicons.org][simple-icons-website-rs-website] | [![Github releases][simple-icons-website-rs-github-badge]][simple-icons-website-rs-github] | [![GitHub last commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
-| [leptos-fluent][leptos-fluent-github] | [![Github releases][leptos-fluent-github-badge]][leptos-fluent-docs-link] | [![GitHub last commit][leptos-fluent-last-commit-badge]][leptos-fluent-last-commit-link] | [![Tests][leptos-fluent-state-badge]][leptos-fluent-state-link] |
-| [svg-path-cst][svg-path-cst-github] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-docs-link] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
-| [md-ulb-pwrap][md-ulb-pwrap-github] | [![Github releases][md-ulb-pwrap-github-badge]][md-ulb-pwrap-docs-link] | [![GitHub last commit][md-ulb-pwrap-last-commit-badge]][md-ulb-pwrap-last-commit-link] | [![Tests][md-ulb-pwrap-state-badge]][md-ulb-pwrap-state-link] |
-| [rspolib][rspolib-github] | [![Github releases][rspolib-github-badge]][rspolib-docs-link] | [![GitHub last commit][rspolib-last-commit-badge]][rspolib-last-commit-link] | [![Tests][rspolib-state-badge]][rspolib-state-link] |
+| [leptos-fluent][leptos-fluent-github] | [![Github releases][leptos-fluent-github-badge]][leptos-fluent-crate-link] | [![GitHub last commit][leptos-fluent-last-commit-badge]][leptos-fluent-last-commit-link] | [![Tests][leptos-fluent-state-badge]][leptos-fluent-state-link] |
+| [hledger-fmt][hledger-fmt-github] | [![Github releases][hledger-fmt-github-badge]][hledger-fmt-crate-link] | [![GitHub last commit][hledger-fmt-last-commit-badge]][hledger-fmt-last-commit-link] | [![Tests][hledger-fmt-state-badge]][hledger-fmt-state-link] |
+| [svg-path-cst][svg-path-cst-github] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-crate-link] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
+| [md-ulb-pwrap][md-ulb-pwrap-github] | [![Github releases][md-ulb-pwrap-github-badge]][md-ulb-pwrap-crate-link] | [![GitHub last commit][md-ulb-pwrap-last-commit-badge]][md-ulb-pwrap-last-commit-link] | [![Tests][md-ulb-pwrap-state-badge]][md-ulb-pwrap-state-link] |
+| [rspolib][rspolib-github] | [![Github releases][rspolib-github-badge]][rspolib-crate-link] | [![GitHub last commit][rspolib-last-commit-badge]][rspolib-last-commit-link] | [![Tests][rspolib-state-badge]][rspolib-state-link] |
 
 ## Python
 
@@ -80,7 +81,7 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [simple-icons-website-rs-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-website-rs/verify.yml?branch=master&logo=github&label=tests&style=flat-square
 [simple-icons-website-rs-state-link]: https://github.com/mondeja/simple-icons-website-rs/actions?query=workflow%3AVerify
 
-[leptos-fluent-docs-link]: https://docs.rs/leptos-fluent
+[leptos-fluent-crate-link]: https://crates.io/crates/leptos-fluent
 [leptos-fluent-github-badge]: https://img.shields.io/crates/v/leptos-fluent?style=flat-square&logo=rust
 [leptos-fluent-github]: https://github.com/mondeja/leptos-fluent
 [leptos-fluent-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/leptos-fluent?style=flat-square
@@ -88,7 +89,15 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [leptos-fluent-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/leptos-fluent/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [leptos-fluent-state-link]: https://github.com/mondeja/leptos-fluent/actions?query=workflow%3ACI
 
-[svg-path-cst-docs-link]: https://docs.rs/svg-path-cst
+[hledger-fmt-crate-link]: https://crates.io/crates/hledger-fmt
+[hledger-fmt-github-badge]: https://img.shields.io/crates/v/hledger-fmt?style=flat-square&logo=rust
+[hledger-fmt-github]: https://github.com/mondeja/hledger-fmt
+[hledger-fmt-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/hledger-fmt?style=flat-square
+[hledger-fmt-last-commit-link]: https://github.com/mondeja/hledger-fmt/commits
+[hledger-fmt-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/hledger-fmt/ci.yml?branch=master&logo=github&label=tests&style=flat-square
+[hledger-fmt-state-link]: https://github.com/mondeja/hledger-fmt/actions?query=workflow%3ACI
+
+[svg-path-cst-crate-link]: https://crates.io/crates/svg-path-cst
 [svg-path-cst-github-badge]: https://img.shields.io/crates/v/svg-path-cst?style=flat-square&logo=rust
 [svg-path-cst-github]: https://github.com/mondeja/svg-path-cst
 [svg-path-cst-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/svg-path-cst?style=flat-square
@@ -96,7 +105,7 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [svg-path-cst-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/svg-path-cst/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [svg-path-cst-state-link]: https://github.com/mondeja/svg-path-cst/actions?query=workflow%3ACI
 
-[md-ulb-pwrap-docs-link]: https://docs.rs/md-ulb-pwrap
+[md-ulb-pwrap-crate-link]: https://crates.io/crates/md-ulb-pwrap
 [md-ulb-pwrap-github-badge]: https://img.shields.io/crates/v/md-ulb-pwrap?style=flat-square&logo=rust
 [md-ulb-pwrap-github]: https://github.com/mondeja/md-ulb-pwrap
 [md-ulb-pwrap-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/md-ulb-pwrap?style=flat-square
@@ -104,7 +113,7 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [md-ulb-pwrap-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/md-ulb-pwrap/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [md-ulb-pwrap-state-link]: https://github.com/mondeja/md-ulb-pwrap/actions?query=workflow%3ACI
 
-[rspolib-docs-link]: https://docs.rs/rspolib
+[rspolib-crate-link]: https://crates.io/crates/rspolib
 [rspolib-github-badge]: https://img.shields.io/crates/v/rspolib?style=flat-square&logo=rust
 [rspolib-github]: https://github.com/mondeja/rspolib
 [rspolib-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/rspolib?style=flat-square
