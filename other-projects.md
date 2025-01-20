@@ -4,6 +4,7 @@ Other projects for which I've contributed but currently are a bit abandoned, alt
 
 | Name | Release | Activity | Popularity | State |
 | --- | --- | ---- | --- | --- |
+| [braille-l18n (Inkscape extension)][inkscape-braille-l18n-ext-github] | [![Releases][inkscape-braille-l18n-ext-releases-badge]][inkscape-braille-l18n-ext-releases-link] | [![GitHub last commit][inkscape-braille-l18n-ext-last-commit-badge]][inkscape-braille-l18n-ext-last-commit-link] | [![inkscape-braille-l18n-ext-downloads-badge]][inkscape-braille-l18n-ext-downloads-link] | [![Tests][inkscape-braille-l18n-ext-state-badge]][inkscape-braille-l18n-ext-state-link] |
 | [mondeja-pre-commit-hooks][mondeja-pre-commit-hooks-github] | [![PyPI][mondeja-pre-commit-hooks-pypi-badge]][mondeja-pre-commit-hooks-pypi-link] | [![GitHub last commit][mondeja-pre-commit-hooks-last-commit-badge]][mondeja-pre-commit-hooks-last-commit-link] | [![PyPI - Downloads][mondeja-pre-commit-hooks-pypi-downloads-badge]][mondeja-pre-commit-hooks-pypi-downloads-link] | [![Tests][mondeja-pre-commit-hooks-state-badge]][mondeja-pre-commit-hooks-state-link] |
 | [http-request-codegen][http-request-codegen-github] | [![PyPI][http-request-codegen-pypi-badge]][http-request-codegen-pypi-link] | [![GitHub last commit][http-request-codegen-last-commit-badge]][http-request-codegen-last-commit-link] | [![PyPI - Downloads][http-request-codegen-pypi-downloads-badge]][http-request-codegen-pypi-downloads-link] | [![Tests][http-request-codegen-state-badge]][http-request-codegen-state-link] |
 | [cartocss-doc-parser][cartocss-doc-parser-github] | [![PyPI][cartocss-doc-parser-pypi-badge]][cartocss-doc-parser-pypi-link] | [![GitHub last commit][cartocss-doc-parser-last-commit-badge]][cartocss-doc-parser-last-commit-link] | [![PyPI - Downloads][cartocss-doc-parser-pypi-downloads-badge]][cartocss-doc-parser-pypi-downloads-link] | [![Tests][cartocss-doc-parser-state-badge]][cartocss-doc-parser-state-link] |
@@ -12,6 +13,16 @@ Other projects for which I've contributed but currently are a bit abandoned, alt
 | [hunspellcheck][hunspellcheck-github] | [![PyPI][hunspellcheck-pypi-badge]][hunspellcheck-pypi-link] | [![GitHub last commit][hunspellcheck-last-commit-badge]][hunspellcheck-last-commit-link] | [![PyPI - Downloads][hunspellcheck-pypi-downloads-badge]][hunspellcheck-pypi-downloads-link] | [![Tests][hunspellcheck-state-badge]][hunspellcheck-state-link] |
 
 <!-- Python projects links -->
+
+[inkscape-braille-l18n-ext-github]: https://github.com/mondeja/inkscape-braille-l18n-ext
+[inkscape-braille-l18n-ext-releases-badge]: https://img.shields.io/github/v/release/mondeja/inkscape-braille-l18n-ext?style=flat-square&logo=github&logoColor=white&label=github
+[inkscape-braille-l18n-ext-releases-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
+[inkscape-braille-l18n-ext-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/inkscape-braille-l18n-ext?style=flat-square
+[inkscape-braille-l18n-ext-last-commit-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/commits
+[inkscape-braille-l18n-ext-downloads-badge]: https://img.shields.io/github/downloads/mondeja/inkscape-braille-l18n-ext/total
+[inkscape-braille-l18n-ext-downloads-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/releases
+[inkscape-braille-l18n-ext-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/inkscape-braille-l18n-ext/ci.yml?branch=master&logo=github&label=tests&style=flat-square
+[inkscape-braille-l18n-ext-state-link]: https://github.com/mondeja/inkscape-braille-l18n-ext/actions?query=workflow%3ACI
 
 [mondeja-pre-commit-hooks-github]: https://github.com/mondeja/pre-commit-hooks
 [mondeja-pre-commit-hooks-pypi-badge]: https://img.shields.io/pypi/v/mondeja-pre-commit-hooks?style=flat-square&logo=python&logoColor=white
