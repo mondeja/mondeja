@@ -6,7 +6,7 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 
 | Name | Release | Activity | State |
 | --- | --- | ----  | --- |
-| [wasm.simpleicons.org][simple-icons-website-rs-website] | [![Github releases][simple-icons-website-rs-github-badge]][simple-icons-website-rs-github] | [![GitHub last commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
+| [simpleicons.org][simple-icons-website-rs-website] | [![Github releases][simple-icons-website-rs-github-badge]][simple-icons-website-rs-github] | [![GitHub last commit][simple-icons-website-rs-last-commit-badge]][simple-icons-website-rs-last-commit-link] | [![Tests][simple-icons-website-rs-state-badge]][simple-icons-website-rs-state-link] |
 | [leptos-fluent][leptos-fluent-github] | [![Github releases][leptos-fluent-github-badge]][leptos-fluent-crate-link] | [![GitHub last commit][leptos-fluent-last-commit-badge]][leptos-fluent-last-commit-link] | [![Tests][leptos-fluent-state-badge]][leptos-fluent-state-link] |
 | [hledger-fmt][hledger-fmt-github] | [![Github releases][hledger-fmt-github-badge]][hledger-fmt-crate-link] | [![GitHub last commit][hledger-fmt-last-commit-badge]][hledger-fmt-last-commit-link] | [![Tests][hledger-fmt-state-badge]][hledger-fmt-state-link] |
 | [svg-path-cst][svg-path-cst-github] | [![Github releases][svg-path-cst-github-badge]][svg-path-cst-crate-link] | [![GitHub last commit][svg-path-cst-last-commit-badge]][svg-path-cst-last-commit-link] | [![Tests][svg-path-cst-state-badge]][svg-path-cst-state-link] |
@@ -72,13 +72,13 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 
 <!-- Rust projects links -->
 
-[simple-icons-website-rs-github]: https://github.com/mondeja/simple-icons-website-rs
-[simple-icons-website-rs-website]: https://wasm.simpleicons.org
-[simple-icons-website-rs-github-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmondeja%2Fsimple-icons-website-rs%2Fmaster%2Fpackage.json&query=$..[%27devDependencies%27][%27simple-icons%27]&logo=simpleicons&label=version
-[simple-icons-website-rs-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/simple-icons-website-rs?style=flat-square&logo=github
-[simple-icons-website-rs-last-commit-link]: https://github.com/mondeja/simple-icons-website-rs/commits 
-[simple-icons-website-rs-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/simple-icons-website-rs/verify.yml?branch=master&logo=github&label=tests&style=flat-square
-[simple-icons-website-rs-state-link]: https://github.com/mondeja/simple-icons-website-rs/actions?query=workflow%3AVerify
+[simple-icons-website-rs-github]: https://github.com/simple-icons/simple-icons-website-rs
+[simple-icons-website-rs-website]: https://simpleicons.org
+[simple-icons-website-rs-github-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons-website-rs%2Fmaster%2Fpackage.json&query=$..[%27devDependencies%27][%27simple-icons%27]&logo=simpleicons&label=version
+[simple-icons-website-rs-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons-website-rs?style=flat-square&logo=github
+[simple-icons-website-rs-last-commit-link]: https://github.com/simple-icons/simple-icons-website-rs/commits 
+[simple-icons-website-rs-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons-website-rs/verify.yml?branch=master&logo=github&label=tests&style=flat-square
+[simple-icons-website-rs-state-link]: https://github.com/simple-icons/simple-icons-website-rs/actions?query=workflow%3AVerify
 
 [leptos-fluent-crate-link]: https://crates.io/crates/leptos-fluent
 [leptos-fluent-github-badge]: https://img.shields.io/crates/v/leptos-fluent?style=flat-square&logo=rust
