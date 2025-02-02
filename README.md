@@ -33,7 +33,6 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 | [svg-path-segments][svg-path-segments-github] | [![NPM][svg-path-segments-npm-badge]][svg-path-segments-npm-link] | [![GitHub last commit][svg-path-segments-last-commit-badge]][svg-path-segments-last-commit-link] | [![NPM - Downloads][svg-path-segments-npm-downloads-badge]][svg-path-segments-npm-link] | [![Tests][svg-path-segments-state-badge]][svg-path-segments-state-link] |
 | [simple-icons][simple-icons-github] | [![NPM][simple-icons-npm-badge]][simple-icons-npm-link] | [![GitHub last commit][simple-icons-last-commit-badge]][simple-icons-last-commit-link] | [![NPM - Downloads][simple-icons-npm-downloads-badge]][simple-icons-npm-link] | [![Tests][simple-icons-state-badge]][simple-icons-state-link] |
 | [simple-icons-font][simple-icons-font-github] | [![NPM][simple-icons-font-npm-badge]][simple-icons-font-npm-link] | [![GitHub last commit][simple-icons-font-last-commit-badge]][simple-icons-font-last-commit-link] | [![NPM - Downloads][simple-icons-font-npm-downloads-badge]][simple-icons-font-npm-link] | [![Tests][simple-icons-font-state-badge]][simple-icons-font-state-link] |
-| [simple-icons-website][simple-icons-website-github] | [![NPM][simple-icons-website-badge]][simple-icons-website-link] | [![GitHub last commit][simple-icons-website-last-commit-badge]][simple-icons-website-last-commit-link] |  | [![Tests][simple-icons-website-state-badge]][simple-icons-website-state-link] |
 | [simple-icons-drawio][simple-icons-drawio-github] | [![NPM][simple-icons-drawio-badge]][simple-icons-drawio-link] | [![GitHub last commit][simple-icons-drawio-last-commit-badge]][simple-icons-drawio-last-commit-link] | [![Github downloads][simple-icons-drawio-gh-downloads-badge]][simple-icons-drawio-gh-downloads-link] | [![Tests][simple-icons-drawio-state-badge]][simple-icons-drawio-state-link] |
 | [woff2otf][woff2otf-github] | [![NPM][woff2otf-npm-badge]][woff2otf-npm-link] | [![GitHub last commit][woff2otf-last-commit-badge]][woff2otf-last-commit-link] | [![NPM - Downloads][woff2otf-npm-downloads-badge]][woff2otf-npm-link] | [![Tests][woff2otf-state-badge]][woff2otf-state-link] |
 
@@ -233,14 +232,6 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [simple-icons-font-npm-downloads-badge]: https://img.shields.io/npm/dm/simple-icons-font?style=flat-square
 [simple-icons-font-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons-font/verify.yml?branch=develop&logo=github&label=tests&style=flat-square
 [simple-icons-font-state-link]: https://github.com/simple-icons/simple-icons-font/actions?query=workflow%3AVerify
-
-[simple-icons-website-github]: https://github.com/simple-icons/simple-icons-website
-[simple-icons-website-badge]: https://img.shields.io/badge/dynamic/json?color=informational&label=icons&prefix=%20&logo=simpleicons&query=%24.icons.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2F_data%2Fsimple-icons.json
-[simple-icons-website-link]: https://simpleicons.org
-[simple-icons-website-last-commit-badge]: https://img.shields.io/github/last-commit/simple-icons/simple-icons-website?style=flat-square
-[simple-icons-website-last-commit-link]: https://github.com/simple-icons/simple-icons-website/commits
-[simple-icons-website-state-badge]: https://img.shields.io/github/actions/workflow/status/simple-icons/simple-icons-website/verify.yml?branch=master&logo=github&label=tests&style=flat-square
-[simple-icons-website-state-link]: https://github.com/simple-icons/simple-icons-website/actions?query=workflow%3AVerify
 
 [simple-icons-drawio-github]: https://github.com/mondeja/simple-icons-drawio#readme
 [simple-icons-drawio-badge]: https://img.shields.io/github/v/release/mondeja/simple-icons-drawio?label=github&logo=diagramsdotnet&logoColor=white
