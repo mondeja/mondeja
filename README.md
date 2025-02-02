@@ -21,7 +21,6 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 | [project-config][project-config-github] | [![PyPI][project-config-pypi-badge]][project-config-pypi-link] | [![GitHub last commit][project-config-last-commit-badge]][project-config-last-commit-link] | [![PyPI - Downloads][project-config-pypi-downloads-badge]][project-config-pypi-downloads-link] |  [![Tests][project-config-state-badge]][project-config-state-link] |
 | [mkdocs-include-markdown-plugin][mkdocs-include-markdown-plugin-github] | [![PyPI][mkdocs-include-markdown-plugin-pypi-badge]][mkdocs-include-markdown-plugin-pypi-link] | [![GitHub last commit][mkdocs-include-markdown-plugin-last-commit-badge]][mkdocs-include-markdown-plugin-last-commit-link] | [![PyPI - Downloads][mkdocs-include-markdown-plugin-pypi-downloads-badge]][mkdocs-include-markdown-plugin-pypi-downloads-link] |  [![Tests][mkdocs-include-markdown-plugin-state-badge]][mkdocs-include-markdown-plugin-state-link] |
 | [pytest-blender][pytest-blender-github] | [![PyPI][pytest-blender-pypi-badge]][pytest-blender-pypi-link] | [![GitHub last commit][pytest-blender-last-commit-badge]][pytest-blender-last-commit-link] | [![PyPI - Downloads][pytest-blender-pypi-downloads-badge]][pytest-blender-pypi-downloads-link] | [![Tests][pytest-blender-state-badge]][pytest-blender-state-link] |
-| [pre-commit-po-hooks][pre-commit-po-hooks-github] | [![PyPI][pre-commit-po-hooks-pypi-badge]][pre-commit-po-hooks-pypi-link] | [![GitHub last commit][pre-commit-po-hooks-last-commit-badge]][pre-commit-po-hooks-last-commit-link] | [![PyPI - Downloads][pre-commit-po-hooks-pypi-downloads-badge]][pre-commit-po-hooks-pypi-downloads-link] | [![Tests][pre-commit-po-hooks-state-badge]][pre-commit-po-hooks-state-link] |
 | [blender-downloader][blender-downloader-github] | [![PyPI][blender-downloader-pypi-badge]][blender-downloader-pypi-link] | [![GitHub last commit][blender-downloader-last-commit-badge]][blender-downloader-last-commit-link] | [![PyPI - Downloads][blender-downloader-pypi-downloads-badge]][blender-downloader-pypi-downloads-link] | [![Tests][blender-downloader-state-badge]][blender-downloader-state-link] |
 | [simple-icons-blender][simple-icons-blender-github] | [![PyPI][simple-icons-blender-pypi-badge]][simple-icons-blender-pypi-link] | [![GitHub last commit][simple-icons-blender-last-commit-badge]][simple-icons-blender-last-commit-link] | | [![Tests][simple-icons-blender-state-badge]][simple-icons-blender-state-link] |
 | [importlib-metadata-argparse-version][importlib-metadata-argparse-version-github] | [![Releases][importlib-metadata-argparse-version-releases-badge]][importlib-metadata-argparse-version-releases-link] | [![GitHub last commit][importlib-metadata-argparse-version-last-commit-badge]][importlib-metadata-argparse-version-last-commit-link] | [![importlib-metadata-argparse-version-downloads-badge]][importlib-metadata-argparse-version-downloads-link] | [![Tests][importlib-metadata-argparse-version-state-badge]][importlib-metadata-argparse-version-state-link] |
@@ -156,16 +155,6 @@ I'm an autodidact Spanish senior software engineer expecially interested in perf
 [mkdocs-include-markdown-plugin-pypi-downloads-link]: https://pypistats.org/packages/mkdocs-include-markdown-plugin
 [mkdocs-include-markdown-plugin-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/mkdocs-include-markdown-plugin/ci.yml?branch=master&logo=github&label=tests&style=flat-square
 [mkdocs-include-markdown-plugin-state-link]: https://github.com/mondeja/mkdocs-include-markdown-plugin/actions?query=workflow%3ACI
-
-[pre-commit-po-hooks-github]: https://github.com/mondeja/pre-commit-po-hooks
-[pre-commit-po-hooks-pypi-badge]: https://img.shields.io/pypi/v/pre-commit-po-hooks?style=flat-square&logo=python&logoColor=white
-[pre-commit-po-hooks-pypi-link]: https://pypi.org/project/pre-commit-po-hooks
-[pre-commit-po-hooks-last-commit-badge]: https://img.shields.io/github/last-commit/mondeja/pre-commit-po-hooks?style=flat-square
-[pre-commit-po-hooks-last-commit-link]: https://github.com/mondeja/pre-commit-po-hooks/commits
-[pre-commit-po-hooks-pypi-downloads-badge]: https://img.shields.io/pypi/dm/pre-commit-po-hooks?style=flat-square
-[pre-commit-po-hooks-pypi-downloads-link]: https://pypistats.org/packages/pre-commit-po-hooks
-[pre-commit-po-hooks-state-badge]: https://img.shields.io/github/actions/workflow/status/mondeja/pre-commit-po-hooks/ci.yml?branch=master&logo=github&label=tests&style=flat-square
-[pre-commit-po-hooks-state-link]: https://github.com/mondeja/pre-commit-po-hooks/actions?query=workflow%CI
 
 [blender-downloader-github]: https://github.com/mondeja/blender-downloader
 [blender-downloader-pypi-badge]: https://img.shields.io/pypi/v/blender-downloader?style=flat-square&logo=python&logoColor=white
