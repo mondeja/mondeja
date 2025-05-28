@@ -1,5 +1,5 @@
 [![Email][email-badge]][email-link] [![Gitlab][gitlab-badge]][gitlab-link] [![Discord][discord-badge]][discord-link]
-
+<!--
 ## Rust
 
 | Name | Release | Activity | State |
@@ -49,6 +49,7 @@
 | [solaris-vm-action][solaris-vm-action-github] | [![Github release][solaris-vm-action-release-badge]][solaris-vm-action-release-link] | [![GitHub last commit][solaris-vm-action-last-commit-badge]][solaris-vm-action-last-commit-link] | [![Tests][solaris-vm-action-state-badge]][solaris-vm-action-state-link] | ![Shell][shell] |
 | [pr-linked-issues-action][pr-linked-issues-action-github] | [![Github release][pr-linked-issues-action-release-badge]][pr-linked-issues-action-release-link] | [![GitHub last commit][pr-linked-issues-action-last-commit-badge]][pr-linked-issues-action-last-commit-link] | [![Tests][pr-linked-issues-action-state-badge]][pr-linked-issues-action-state-link] | ![Shell][shell] |
 | [strip-gh-theme-links][strip-gh-theme-links-github] | [![Github release][strip-gh-theme-links-release-badge]][strip-gh-theme-links-release-link] | [![GitHub last commit][strip-gh-theme-links-last-commit-badge]][strip-gh-theme-links-last-commit-link] | [![Tests][strip-gh-theme-links-state-badge]][strip-gh-theme-links-state-link] | ![Javascript][javascript] |
+-->
 
 <!-- LINKS -->
 
